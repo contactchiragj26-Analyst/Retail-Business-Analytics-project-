@@ -1,0 +1,37 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="50%" stop-color="#2563eb"/>
+      <stop offset="100%" stop-color="#7c3aed"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" x2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bg)"/>
+
+  <rect x="-200" y="0" width="500" height="300" fill="url(#shine)">
+    <animateTransform attributeName="transform" type="translate" from="-200 0" to="1200 0" dur="5s" repeatCount="indefinite"/>
+  </rect>
+
+  <circle cx="120" cy="150" r="68" fill="#22d3ee" opacity="0.9">
+    <animate attributeName="r" values="68;80;68" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+
+  <text x="240" y="125" font-size="44" font-family="Arial, sans-serif" font-weight="700" fill="#ffffff">
+    Retail Analytics
+  </text>
+
+  <text x="240" y="175" font-size="28" font-family="Arial, sans-serif" fill="#dbeafe">
+    KPI Dashboard • Sales Insights • Business Performance
+  </text>
+
+  <rect x="240" y="205" width="260" height="42" rx="20" fill="#ffffff" opacity="0.15"/>
+  <text x="270" y="233" font-size="20" font-family="Arial, sans-serif" fill="#ffffff">
+    Portfolio Ready
+  </text>
+</svg>

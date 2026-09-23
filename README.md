@@ -1,5 +1,7 @@
 # 📊 Retail Business Analytics Portfolio Project
 
+![Retail Analytics Banner](./banner.svg)
+
 [![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Dashboard](https://img.shields.io/badge/Dashboard-Interactive%20HTML-0A66C2)](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -13,6 +15,9 @@ flowchart LR
     B --> C[Business KPI Analysis]
     C --> D[Charts & Dashboards]
     D --> E[Actionable Insights]
+    E --> F[Portfolio Story]
+    classDef move fill:#2563eb,color:#fff,stroke:#1d4ed8,stroke-width:2px;
+    class A,B,C,D,E,F move;
 ```
 
 ## 🚀 Executive summary

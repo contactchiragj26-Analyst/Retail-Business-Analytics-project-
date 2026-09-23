@@ -1,0 +1,112 @@
+
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+      <meta charset="UTF-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <title>Retail Performance Dashboard</title>
+      <style>
+        :root {
+          --bg: #f4f7fb;
+          --panel: #ffffff;
+          --title: #172033;
+          --muted: #627085;
+          --primary: #2f6fed;
+          --primary-soft: #eaf1ff;
+          --green: #2f9e68;
+          --orange: #ef8b3d;
+          --purple: #8e5cf5;
+          --border: #e7edf5;
+        }
+        body { font-family: Arial, sans-serif; margin: 0; background: linear-gradient(180deg, #eff4ff 0%, var(--bg) 70%); color: var(--title); }
+        .container { max-width: 1200px; margin: 40px auto; padding: 24px; }
+        .header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 24px; }
+        .title { font-size: 2.2rem; font-weight: 800; letter-spacing: -0.03em; }
+        .subtitle { color: var(--muted); margin-top: 6px; font-size: 1rem; }
+        .summary-note { background: var(--primary-soft); border: 1px solid #d7e5ff; border-radius: 12px; padding: 12px 16px; color: #21448a; margin-bottom: 18px; font-weight: 600; }
+        .cards { display: grid; grid-template-columns: repeat(5, minmax(180px, 1fr)); gap: 16px; margin-bottom: 24px; }
+        .card { background: var(--panel); border-radius: 14px; padding: 20px; box-shadow: 0 8px 22px rgba(34, 61, 106, 0.06); border: 1px solid var(--border); }
+        .card-label { color: var(--muted); font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.08em; }
+        .card-value { font-size: 1.8rem; font-weight: 800; margin-top: 8px; }
+        .grid { display: grid; grid-template-columns: 1.35fr 1fr; gap: 20px; }
+        .panel { background: var(--panel); border-radius: 14px; padding: 18px; box-shadow: 0 8px 22px rgba(34, 61, 106, 0.05); border: 1px solid var(--border); }
+        h3 { margin-top: 0; margin-bottom: 12px; }
+        table { width: 100%; border-collapse: collapse; }
+        th, td { text-align: left; padding: 10px 8px; border-bottom: 1px solid var(--border); }
+        th { color: var(--muted); font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.06em; }
+        @media (max-width: 900px) {
+          .cards { grid-template-columns: repeat(2, minmax(160px, 1fr)); }
+          .grid { grid-template-columns: 1fr; }
+        }
+      </style>
+    </head>
+    <body>
+      <div class="container">
+        <div class="header">
+          <div>
+            <div class="title">Retail Performance Dashboard</div>
+            <div class="subtitle">Portfolio view of revenue, profit, channel efficiency, and risk</div>
+          </div>
+        </div>
+
+        <div class="summary-note">
+          Key insight: the strongest retail performance is driven by North demand and Wholesale sales, while the return rate remains manageable at 9.00%.
+        </div>
+
+        <div class="cards">
+          <div class="card"><div class="card-label">Revenue</div><div class="card-value">$1,001,732.87</div></div>
+          <div class="card"><div class="card-label">Profit</div><div class="card-value">$199,944.48</div></div>
+          <div class="card"><div class="card-label">Units Sold</div><div class="card-value">7322</div></div>
+          <div class="card"><div class="card-label">AOV</div><div class="card-value">$1,252.17</div></div>
+          <div class="card"><div class="card-label">Return Rate</div><div class="card-value">9.00%</div></div>
+        </div>
+
+        <div class="grid">
+          <div class="panel">
+            <h3>Monthly Revenue</h3>
+            <table>
+              <thead>
+                <tr><th>Month</th><th>Sales</th></tr>
+              </thead>
+              <tbody>
+                <tr><td>2024-01</td><td>$54,987.94</td></tr><tr><td>2024-02</td><td>$56,816.87</td></tr><tr><td>2024-03</td><td>$61,786.92</td></tr><tr><td>2024-04</td><td>$50,909.89</td></tr><tr><td>2024-05</td><td>$61,251.81</td></tr><tr><td>2024-06</td><td>$63,888.30</td></tr><tr><td>2024-07</td><td>$57,121.55</td></tr><tr><td>2024-08</td><td>$50,766.67</td></tr><tr><td>2024-09</td><td>$50,021.54</td></tr><tr><td>2024-10</td><td>$59,437.23</td></tr><tr><td>2024-11</td><td>$48,701.19</td></tr><tr><td>2024-12</td><td>$58,805.00</td></tr><tr><td>2025-01</td><td>$52,710.92</td></tr><tr><td>2025-02</td><td>$38,051.58</td></tr><tr><td>2025-03</td><td>$62,429.33</td></tr><tr><td>2025-04</td><td>$62,865.12</td></tr><tr><td>2025-05</td><td>$52,183.46</td></tr><tr><td>2025-06</td><td>$58,997.55</td></tr>
+              </tbody>
+            </table>
+          </div>
+          <div class="panel">
+            <h3>Top Regions</h3>
+            <table>
+              <thead><tr><th>Region</th><th>Sales</th></tr></thead>
+              <tbody><tr><td>North</td><td>$284,555.02</td></tr><tr><td>West</td><td>$269,298.61</td></tr><tr><td>East</td><td>$224,475.83</td></tr><tr><td>South</td><td>$223,403.41</td></tr></tbody>
+            </table>
+          </div>
+        </div>
+
+        <div class="grid" style="margin-top: 20px;">
+          <div class="panel">
+            <h3>Best Categories by Profit</h3>
+            <table>
+              <thead><tr><th>Category</th><th>Profit</th></tr></thead>
+              <tbody><tr><td>Electronics</td><td>$64,592.11</td></tr><tr><td>Home Goods</td><td>$43,512.70</td></tr><tr><td>Apparel</td><td>$30,778.81</td></tr><tr><td>Beauty</td><td>$29,784.10</td></tr></tbody>
+            </table>
+          </div>
+          <div class="panel">
+            <h3>Sales by Channel</h3>
+            <table>
+              <thead><tr><th>Channel</th><th>Sales</th></tr></thead>
+              <tbody><tr><td>Wholesale</td><td>$295,922.84</td></tr><tr><td>Marketplace</td><td>$244,852.70</td></tr><tr><td>Online</td><td>$242,111.68</td></tr><tr><td>In-Store</td><td>$218,845.65</td></tr></tbody>
+            </table>
+          </div>
+        </div>
+
+        <div class="panel" style="margin-top: 20px;">
+          <h3>Top Stores by Revenue</h3>
+          <table>
+            <thead><tr><th>Store</th><th>Sales</th></tr></thead>
+            <tbody><tr><td>Value Cart</td><td>$199,617.08</td></tr><tr><td>QuickStop</td><td>$190,523.43</td></tr><tr><td>Daily Basket</td><td>$168,737.55</td></tr><tr><td>Trend Hub</td><td>$152,883.16</td></tr><tr><td>Urban Mart</td><td>$149,445.83</td></tr></tbody>
+          </table>
+        </div>
+      </div>
+    </body>
+    </html>
+    

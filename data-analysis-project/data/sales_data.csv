@@ -1,0 +1,801 @@
+order_id,customer_id,order_date,store_name,city,region,category,channel,customer_segment,units_sold,sales,profit,returns
+ORD-1001,CUST-5737,2024-02-18,Prime Market,Los Angeles,West,Apparel,Marketplace,New,12,1341.36,214.62,0
+ORD-1002,CUST-5053,2025-06-17,Daily Basket,Boston,East,Beauty,Wholesale,New,15,1502.82,300.56,0
+ORD-1003,CUST-1829,2024-04-09,Value Cart,Los Angeles,West,Apparel,Marketplace,Returning,8,1049.76,167.96,0
+ORD-1004,CUST-7822,2024-10-30,QuickStop,Seattle,West,Groceries,In-Store,Returning,3,263.25,65.81,0
+ORD-1005,CUST-5479,2024-02-07,QuickStop,Seattle,West,Beauty,Marketplace,VIP,4,546.75,109.35,0
+ORD-1006,CUST-9706,2024-01-24,Daily Basket,New York,East,Beauty,Marketplace,VIP,7,842.0,168.4,0
+ORD-1007,CUST-3971,2025-05-10,Prime Market,Miami,South,Beauty,Online,Returning,3,268.27,53.65,0
+ORD-1008,CUST-7301,2024-05-04,QuickStop,Boston,East,Apparel,Online,VIP,11,1690.67,270.51,0
+ORD-1009,CUST-6730,2025-02-24,Daily Basket,Seattle,West,Groceries,In-Store,VIP,5,548.44,137.11,0
+ORD-1010,CUST-6982,2024-03-17,Daily Basket,Seattle,West,Electronics,Marketplace,VIP,14,3444.53,757.8,0
+ORD-1011,CUST-4956,2024-05-31,Prime Market,Los Angeles,West,Apparel,Wholesale,New,3,409.86,65.58,0
+ORD-1012,CUST-6711,2024-12-31,QuickStop,New York,East,Apparel,Online,VIP,10,1536.98,245.92,0
+ORD-1013,CUST-3488,2024-02-19,Trend Hub,Boston,East,Beauty,Online,Returning,8,819.72,163.94,0
+ORD-1014,CUST-3532,2024-08-11,Urban Mart,Los Angeles,West,Home Goods,Marketplace,New,15,2049.3,368.87,0
+ORD-1015,CUST-4761,2024-08-25,Value Cart,New York,East,Apparel,Marketplace,VIP,12,1732.1,277.14,0
+ORD-1016,CUST-7500,2025-03-21,Prime Market,Miami,South,Electronics,Online,New,14,1919.64,422.32,0
+ORD-1017,CUST-2495,2025-01-27,Value Cart,Chicago,North,Groceries,Online,Returning,12,1143.14,285.79,0
+ORD-1018,CUST-1788,2024-07-27,Daily Basket,Toronto,North,Beauty,Wholesale,Returning,17,2144.82,428.96,0
+ORD-1019,CUST-3371,2024-07-04,QuickStop,Seattle,West,Apparel,Wholesale,Returning,5,801.9,128.3,0
+ORD-1020,CUST-1867,2025-03-01,Daily Basket,Dallas,South,Apparel,Wholesale,New,2,209.85,33.58,0
+ORD-1021,CUST-5168,2024-03-10,Trend Hub,Dallas,South,Beauty,In-Store,VIP,10,972.0,194.4,0
+ORD-1022,CUST-6645,2025-04-13,Prime Market,Chicago,North,Beauty,Wholesale,Returning,6,756.99,151.4,0
+ORD-1023,CUST-2693,2024-02-21,Urban Mart,Boston,East,Beauty,In-Store,VIP,1,111.38,22.28,0
+ORD-1024,CUST-2535,2024-06-29,Daily Basket,New York,East,Electronics,Online,Returning,14,2582.12,568.07,0
+ORD-1025,CUST-4762,2025-06-25,Prime Market,New York,East,Beauty,Wholesale,New,1,100.19,20.04,0
+ORD-1026,CUST-5415,2024-09-20,Urban Mart,Dallas,South,Electronics,In-Store,Returning,12,1679.62,369.52,0
+ORD-1027,CUST-8647,2024-03-29,Prime Market,Boston,East,Groceries,In-Store,VIP,6,579.15,144.79,0
+ORD-1028,CUST-2262,2024-08-28,Prime Market,Miami,South,Groceries,Online,VIP,10,968.76,242.19,0
+ORD-1029,CUST-9447,2024-06-21,Daily Basket,Chicago,North,Electronics,In-Store,New,12,1758.67,386.91,0
+ORD-1030,CUST-1336,2025-02-24,Value Cart,Miami,South,Groceries,Marketplace,New,5,310.0,77.5,0
+ORD-1031,CUST-6712,2024-10-26,Daily Basket,Miami,South,Apparel,Marketplace,VIP,6,755.83,120.93,0
+ORD-1032,CUST-2481,2024-06-08,QuickStop,Boston,East,Home Goods,Marketplace,VIP,4,705.67,127.02,1
+ORD-1033,CUST-3010,2024-06-12,QuickStop,Dallas,South,Electronics,Marketplace,New,13,1674.02,368.28,0
+ORD-1034,CUST-6954,2025-05-03,Prime Market,Chicago,North,Home Goods,Online,VIP,6,1209.09,217.64,0
+ORD-1035,CUST-1287,2025-04-29,Daily Basket,Chicago,North,Home Goods,In-Store,New,16,1910.66,343.92,0
+ORD-1036,CUST-6393,2024-03-08,QuickStop,Chicago,North,Electronics,Wholesale,New,7,1354.18,297.92,0
+ORD-1037,CUST-4902,2024-01-25,Trend Hub,Toronto,North,Groceries,Marketplace,New,17,1295.56,323.89,0
+ORD-1038,CUST-7098,2024-03-19,Trend Hub,Seattle,West,Home Goods,In-Store,New,1,126.5,22.77,0
+ORD-1039,CUST-1225,2024-06-11,Daily Basket,Boston,East,Beauty,Wholesale,Returning,4,470.45,94.09,0
+ORD-1040,CUST-9347,2025-01-26,Daily Basket,Chicago,North,Electronics,In-Store,New,10,1465.56,322.42,0
+ORD-1041,CUST-9641,2025-06-16,Prime Market,Miami,South,Apparel,Wholesale,New,17,1783.71,285.39,0
+ORD-1042,CUST-1952,2025-05-20,Value Cart,Miami,South,Apparel,Online,Returning,15,1609.63,257.54,0
+ORD-1043,CUST-4888,2025-02-13,QuickStop,Miami,South,Electronics,Wholesale,New,16,2518.18,554.0,0
+ORD-1044,CUST-8464,2024-09-12,QuickStop,Boston,East,Electronics,Wholesale,New,5,901.69,198.37,0
+ORD-1045,CUST-3608,2024-09-10,Value Cart,Toronto,North,Beauty,Wholesale,VIP,15,2365.61,473.12,0
+ORD-1046,CUST-8806,2024-08-13,QuickStop,Toronto,North,Apparel,Online,Returning,17,2242.31,358.77,0
+ORD-1047,CUST-8933,2024-10-17,Trend Hub,Toronto,North,Groceries,Wholesale,VIP,14,1913.51,478.38,0
+ORD-1048,CUST-3792,2024-02-06,Prime Market,Dallas,South,Electronics,Online,VIP,6,1207.22,265.59,0
+ORD-1049,CUST-5862,2025-05-15,Urban Mart,Los Angeles,West,Electronics,In-Store,Returning,3,546.75,120.28,0
+ORD-1050,CUST-6319,2024-01-12,Trend Hub,New York,East,Electronics,Marketplace,New,8,1180.4,259.69,0
+ORD-1051,CUST-5828,2025-03-15,Trend Hub,Dallas,South,Groceries,Wholesale,VIP,15,1667.95,416.99,0
+ORD-1052,CUST-6140,2024-01-24,QuickStop,Miami,South,Home Goods,Online,New,11,1228.97,221.21,0
+ORD-1053,CUST-1960,2024-06-03,Prime Market,Toronto,North,Groceries,Wholesale,VIP,2,273.36,68.34,0
+ORD-1054,CUST-9122,2024-01-29,Daily Basket,Dallas,South,Electronics,Marketplace,VIP,14,2645.4,581.99,0
+ORD-1055,CUST-8433,2024-06-24,Daily Basket,Los Angeles,West,Beauty,Wholesale,Returning,14,1871.1,374.22,0
+ORD-1056,CUST-4465,2024-10-20,QuickStop,Dallas,South,Groceries,Marketplace,Returning,14,1018.97,254.74,0
+ORD-1057,CUST-4043,2024-05-16,Urban Mart,Miami,South,Apparel,In-Store,New,8,635.9,101.74,0
+ORD-1058,CUST-7171,2024-07-20,Daily Basket,New York,East,Home Goods,In-Store,Returning,4,522.72,94.09,0
+ORD-1059,CUST-9643,2025-03-09,QuickStop,Los Angeles,West,Groceries,In-Store,VIP,6,658.12,164.53,0
+ORD-1060,CUST-6695,2025-04-09,Trend Hub,Dallas,South,Groceries,Wholesale,Returning,14,1245.4,311.35,0
+ORD-1061,CUST-9571,2024-04-06,Trend Hub,New York,East,Apparel,Wholesale,Returning,15,2117.02,338.72,0
+ORD-1062,CUST-9422,2024-12-02,Value Cart,New York,East,Beauty,Wholesale,New,9,901.69,180.34,0
+ORD-1063,CUST-9381,2025-06-09,Daily Basket,Seattle,West,Apparel,Wholesale,Returning,14,2245.32,359.25,0
+ORD-1064,CUST-6544,2025-06-01,Daily Basket,Toronto,North,Apparel,Online,New,9,1011.24,161.8,0
+ORD-1065,CUST-9280,2024-03-11,Value Cart,New York,East,Apparel,In-Store,VIP,9,1202.85,192.46,0
+ORD-1066,CUST-2077,2025-03-13,Trend Hub,New York,East,Apparel,Online,VIP,15,2305.46,368.87,0
+ORD-1067,CUST-7574,2025-01-29,Value Cart,Toronto,North,Beauty,In-Store,VIP,14,1672.65,334.53,0
+ORD-1068,CUST-4277,2024-07-01,Daily Basket,Boston,East,Beauty,Wholesale,New,14,1402.63,280.53,0
+ORD-1069,CUST-2151,2024-06-20,Urban Mart,Chicago,North,Electronics,Marketplace,Returning,8,1486.46,327.02,0
+ORD-1070,CUST-5313,2025-02-03,QuickStop,Chicago,North,Groceries,In-Store,VIP,11,1138.99,284.75,0
+ORD-1071,CUST-8900,2024-12-22,Daily Basket,Seattle,West,Groceries,Marketplace,Returning,3,284.31,71.08,0
+ORD-1072,CUST-1110,2024-12-14,Prime Market,Toronto,North,Apparel,Online,VIP,10,1648.76,263.8,0
+ORD-1073,CUST-5639,2025-01-30,Trend Hub,Seattle,West,Groceries,In-Store,New,8,598.0,149.5,0
+ORD-1074,CUST-8911,2025-05-17,Value Cart,Boston,East,Electronics,In-Store,VIP,1,200.48,44.11,0
+ORD-1075,CUST-6609,2025-03-01,Urban Mart,Seattle,West,Beauty,Marketplace,New,12,1117.8,223.56,0
+ORD-1076,CUST-2287,2024-02-19,QuickStop,Boston,East,Electronics,Online,New,8,1256.9,276.52,0
+ORD-1077,CUST-2406,2025-03-18,QuickStop,Toronto,North,Home Goods,Wholesale,VIP,1,231.3,41.63,1
+ORD-1078,CUST-8643,2024-01-29,QuickStop,Los Angeles,West,Groceries,Marketplace,New,5,403.65,100.91,1
+ORD-1079,CUST-5018,2025-01-01,QuickStop,Los Angeles,West,Electronics,Marketplace,VIP,12,2952.45,649.54,0
+ORD-1080,CUST-7705,2024-01-22,Urban Mart,Miami,South,Electronics,Wholesale,Returning,10,1847.58,406.47,0
+ORD-1081,CUST-1899,2024-02-17,Urban Mart,Seattle,West,Groceries,Wholesale,New,4,394.68,98.67,0
+ORD-1082,CUST-6546,2025-01-23,Daily Basket,Boston,East,Beauty,Wholesale,New,2,200.38,40.08,1
+ORD-1083,CUST-4387,2024-04-29,Daily Basket,Seattle,West,Apparel,Online,Returning,2,279.45,44.71,0
+ORD-1084,CUST-6151,2025-06-20,Value Cart,New York,East,Beauty,In-Store,Returning,15,1336.5,267.3,0
+ORD-1085,CUST-4983,2024-05-15,Trend Hub,Los Angeles,West,Apparel,Wholesale,Returning,12,1924.56,307.93,0
+ORD-1086,CUST-5267,2025-05-29,Prime Market,Toronto,North,Apparel,Wholesale,Returning,16,2422.38,387.58,0
+ORD-1087,CUST-4606,2025-06-16,Trend Hub,Chicago,North,Electronics,In-Store,Returning,8,1376.35,302.8,0
+ORD-1088,CUST-6294,2024-12-13,Urban Mart,Seattle,West,Apparel,Marketplace,New,17,1900.26,304.04,0
+ORD-1089,CUST-4157,2025-05-18,Prime Market,Toronto,North,Apparel,In-Store,New,4,390.82,62.53,0
+ORD-1090,CUST-3845,2024-11-05,Value Cart,Boston,East,Beauty,Wholesale,Returning,11,1293.73,258.75,0
+ORD-1091,CUST-8273,2024-07-06,Prime Market,New York,East,Apparel,Wholesale,Returning,7,987.94,158.07,0
+ORD-1092,CUST-5681,2025-02-06,Urban Mart,Boston,East,Groceries,Marketplace,Returning,13,1084.17,271.04,0
+ORD-1093,CUST-8815,2024-05-14,QuickStop,Dallas,South,Home Goods,In-Store,New,2,194.3,34.97,1
+ORD-1094,CUST-2556,2025-04-05,Urban Mart,Seattle,West,Home Goods,Wholesale,Returning,9,1764.18,317.55,0
+ORD-1095,CUST-7381,2024-02-06,Urban Mart,Boston,East,Apparel,Marketplace,VIP,15,2165.13,346.42,0
+ORD-1096,CUST-9624,2024-03-25,Daily Basket,Chicago,North,Electronics,Wholesale,Returning,9,2043.88,449.65,0
+ORD-1097,CUST-9329,2024-09-02,Trend Hub,Seattle,West,Beauty,Wholesale,New,12,1366.2,273.24,0
+ORD-1098,CUST-2473,2024-12-16,Daily Basket,Miami,South,Home Goods,Marketplace,Returning,8,985.37,177.37,0
+ORD-1099,CUST-6857,2024-08-16,QuickStop,Los Angeles,West,Groceries,Wholesale,New,15,1480.05,370.01,0
+ORD-1100,CUST-7797,2024-03-18,QuickStop,New York,East,Home Goods,In-Store,New,15,1669.8,300.56,0
+ORD-1101,CUST-6688,2024-09-19,Urban Mart,Dallas,South,Home Goods,Online,New,16,1787.6,321.77,1
+ORD-1102,CUST-5439,2024-05-07,Trend Hub,Toronto,North,Apparel,Marketplace,Returning,13,1610.33,257.65,1
+ORD-1103,CUST-8149,2024-05-27,QuickStop,Chicago,North,Groceries,Wholesale,Returning,12,1312.12,328.03,0
+ORD-1104,CUST-4045,2025-02-21,Daily Basket,New York,East,Home Goods,Wholesale,Returning,15,2587.46,465.74,0
+ORD-1105,CUST-3744,2024-06-30,Daily Basket,Dallas,South,Beauty,Marketplace,Returning,9,755.83,151.17,0
+ORD-1106,CUST-5782,2024-11-17,Prime Market,Chicago,North,Home Goods,Wholesale,Returning,15,2775.64,499.62,0
+ORD-1107,CUST-3847,2024-01-13,QuickStop,Dallas,South,Beauty,Wholesale,Returning,4,410.57,82.11,0
+ORD-1108,CUST-3767,2024-04-14,Value Cart,Miami,South,Groceries,Wholesale,Returning,8,711.66,177.91,0
+ORD-1109,CUST-8224,2024-11-05,Trend Hub,Toronto,North,Electronics,Wholesale,Returning,11,2498.08,549.58,0
+ORD-1110,CUST-7485,2024-12-05,QuickStop,Seattle,West,Beauty,Wholesale,VIP,9,1503.56,300.71,0
+ORD-1111,CUST-6846,2024-12-06,QuickStop,Seattle,West,Electronics,Online,Returning,13,2724.64,599.42,0
+ORD-1112,CUST-3593,2024-10-29,Prime Market,Los Angeles,West,Groceries,Online,VIP,3,378.42,94.61,0
+ORD-1113,CUST-9668,2025-06-14,Prime Market,Boston,East,Electronics,Online,New,1,157.11,34.56,0
+ORD-1114,CUST-4703,2024-09-24,QuickStop,Los Angeles,West,Apparel,In-Store,VIP,5,759.38,121.5,0
+ORD-1115,CUST-3145,2024-12-21,Value Cart,Toronto,North,Apparel,Marketplace,New,16,1688.33,270.13,0
+ORD-1116,CUST-7077,2024-01-21,QuickStop,Toronto,North,Electronics,In-Store,New,16,2344.9,515.88,0
+ORD-1117,CUST-9169,2024-12-25,QuickStop,Seattle,West,Beauty,Wholesale,Returning,14,1871.1,374.22,1
+ORD-1118,CUST-5631,2024-05-08,Trend Hub,Chicago,North,Groceries,In-Store,New,17,1199.59,299.9,0
+ORD-1119,CUST-4734,2024-10-17,Prime Market,Chicago,North,Beauty,Marketplace,Returning,12,1238.72,247.74,0
+ORD-1120,CUST-6312,2025-04-11,Daily Basket,New York,East,Groceries,Marketplace,New,13,923.55,230.89,0
+ORD-1121,CUST-5048,2024-03-03,QuickStop,Dallas,South,Groceries,Online,VIP,2,193.75,48.44,0
+ORD-1122,CUST-4671,2025-01-27,Value Cart,Dallas,South,Groceries,Wholesale,New,14,1060.9,265.23,0
+ORD-1123,CUST-5461,2024-03-06,QuickStop,New York,East,Groceries,Wholesale,VIP,11,1401.54,350.38,0
+ORD-1124,CUST-1604,2025-05-15,Prime Market,Toronto,North,Electronics,Online,Returning,2,395.7,87.05,0
+ORD-1125,CUST-8985,2024-10-30,Prime Market,Toronto,North,Groceries,Wholesale,VIP,6,820.08,205.02,0
+ORD-1126,CUST-9072,2025-06-08,Value Cart,Los Angeles,West,Apparel,Marketplace,New,6,670.68,107.31,0
+ORD-1127,CUST-6578,2024-11-02,QuickStop,Dallas,South,Home Goods,Wholesale,VIP,13,2446.33,440.34,0
+ORD-1128,CUST-2398,2024-12-23,QuickStop,Toronto,North,Home Goods,In-Store,New,4,477.66,85.98,0
+ORD-1129,CUST-8747,2024-01-01,Value Cart,Miami,South,Home Goods,Marketplace,Returning,14,1724.41,310.39,0
+ORD-1130,CUST-9122,2024-09-17,Value Cart,Los Angeles,West,Beauty,In-Store,VIP,12,1518.75,303.75,0
+ORD-1131,CUST-8015,2024-09-14,Value Cart,Toronto,North,Home Goods,Online,Returning,12,1934.54,348.22,0
+ORD-1132,CUST-1926,2024-10-07,Urban Mart,Seattle,West,Electronics,Marketplace,VIP,13,3198.49,703.67,1
+ORD-1133,CUST-1427,2024-01-29,Urban Mart,Chicago,North,Groceries,In-Store,New,9,635.08,158.77,0
+ORD-1134,CUST-7283,2024-01-28,Value Cart,Seattle,West,Home Goods,Marketplace,New,16,2185.92,393.47,0
+ORD-1135,CUST-4732,2025-06-18,Prime Market,Miami,South,Home Goods,In-Store,New,1,97.15,17.49,0
+ORD-1136,CUST-3997,2025-04-16,Urban Mart,Toronto,North,Apparel,In-Store,Returning,1,114.7,18.35,0
+ORD-1137,CUST-9226,2024-10-28,QuickStop,Seattle,West,Apparel,In-Store,New,6,621.0,99.36,0
+ORD-1138,CUST-9372,2024-09-19,Prime Market,Los Angeles,West,Home Goods,Wholesale,New,5,834.9,150.28,1
+ORD-1139,CUST-1185,2024-09-27,Daily Basket,Dallas,South,Electronics,Online,Returning,1,160.96,35.41,0
+ORD-1140,CUST-1995,2025-05-17,QuickStop,Toronto,North,Electronics,Marketplace,New,3,474.84,104.46,0
+ORD-1141,CUST-3525,2024-09-17,Value Cart,Toronto,North,Home Goods,Wholesale,VIP,15,3469.55,624.52,1
+ORD-1142,CUST-8698,2025-04-11,Prime Market,Boston,East,Electronics,Marketplace,VIP,17,3680.72,809.76,0
+ORD-1143,CUST-7606,2024-05-15,Prime Market,Los Angeles,West,Groceries,Wholesale,VIP,17,2461.39,615.35,0
+ORD-1144,CUST-2946,2025-03-20,Value Cart,Toronto,North,Beauty,Online,Returning,6,659.5,131.9,0
+ORD-1145,CUST-7318,2024-12-13,Urban Mart,Dallas,South,Groceries,Online,VIP,6,581.26,145.31,1
+ORD-1146,CUST-3854,2024-03-31,QuickStop,Boston,East,Beauty,In-Store,VIP,15,1670.62,334.12,0
+ORD-1147,CUST-8148,2024-03-21,Urban Mart,New York,East,Beauty,Online,VIP,12,1536.98,307.4,0
+ORD-1148,CUST-9936,2024-10-04,Trend Hub,Chicago,North,Electronics,Marketplace,New,10,1582.8,348.22,0
+ORD-1149,CUST-2640,2024-07-31,QuickStop,Chicago,North,Electronics,Marketplace,Returning,10,1858.08,408.78,0
+ORD-1150,CUST-6971,2024-05-29,Prime Market,New York,East,Apparel,Online,New,6,628.45,100.55,0
+ORD-1151,CUST-6576,2024-04-13,Value Cart,Toronto,North,Electronics,Online,VIP,15,3709.7,816.13,0
+ORD-1152,CUST-7531,2024-11-30,Value Cart,Chicago,North,Home Goods,Marketplace,VIP,10,1892.48,340.65,0
+ORD-1153,CUST-1316,2024-05-26,QuickStop,Los Angeles,West,Electronics,In-Store,VIP,9,2050.31,451.07,1
+ORD-1154,CUST-9006,2025-03-11,Prime Market,Dallas,South,Apparel,Marketplace,New,14,1201.86,192.3,0
+ORD-1155,CUST-9278,2024-03-28,Urban Mart,New York,East,Home Goods,Marketplace,New,4,480.9,86.56,0
+ORD-1156,CUST-7600,2025-04-14,Trend Hub,Los Angeles,West,Home Goods,In-Store,Returning,15,2227.5,400.95,0
+ORD-1157,CUST-9546,2024-12-19,Value Cart,Miami,South,Electronics,Wholesale,Returning,13,2401.85,528.41,0
+ORD-1158,CUST-8182,2024-11-07,Daily Basket,Miami,South,Groceries,Wholesale,VIP,15,1667.95,416.99,0
+ORD-1159,CUST-8244,2024-01-02,Daily Basket,Toronto,North,Apparel,Online,New,17,1910.11,305.62,0
+ORD-1160,CUST-6478,2025-01-28,Value Cart,Los Angeles,West,Home Goods,Wholesale,New,6,1001.88,180.34,0
+ORD-1161,CUST-4041,2024-07-29,Value Cart,Miami,South,Apparel,Marketplace,Returning,8,806.22,129.0,0
+ORD-1162,CUST-7160,2024-07-25,Daily Basket,Miami,South,Electronics,In-Store,New,6,715.39,157.39,0
+ORD-1163,CUST-4094,2024-01-13,Trend Hub,Los Angeles,West,Electronics,Online,Returning,13,2724.64,599.42,0
+ORD-1164,CUST-5215,2024-06-01,QuickStop,Miami,South,Electronics,In-Store,Returning,1,139.97,30.79,0
+ORD-1165,CUST-8951,2024-03-10,Prime Market,Toronto,North,Electronics,Marketplace,New,12,1899.37,417.86,0
+ORD-1166,CUST-8889,2024-03-01,Urban Mart,Toronto,North,Home Goods,In-Store,VIP,6,1051.38,189.25,0
+ORD-1167,CUST-9470,2024-02-27,QuickStop,Los Angeles,West,Home Goods,Marketplace,Returning,2,320.76,57.74,0
+ORD-1168,CUST-6550,2024-06-15,Prime Market,Chicago,North,Electronics,Marketplace,VIP,13,3019.37,664.26,0
+ORD-1169,CUST-5715,2024-10-11,Trend Hub,Toronto,North,Apparel,Online,New,15,1685.39,269.66,0
+ORD-1170,CUST-7839,2025-02-06,QuickStop,New York,East,Home Goods,Marketplace,Returning,2,282.27,50.81,0
+ORD-1171,CUST-4463,2024-01-24,QuickStop,Chicago,North,Apparel,Online,New,16,1797.75,287.64,0
+ORD-1172,CUST-5048,2024-05-24,Value Cart,Chicago,North,Electronics,Wholesale,Returning,2,454.2,99.92,0
+ORD-1173,CUST-7478,2025-04-25,QuickStop,New York,East,Apparel,Marketplace,VIP,6,866.05,138.57,0
+ORD-1174,CUST-8991,2024-05-15,Trend Hub,Miami,South,Electronics,Online,VIP,2,402.41,88.53,0
+ORD-1175,CUST-4252,2024-06-28,Prime Market,New York,East,Apparel,Wholesale,Returning,10,1411.34,225.81,0
+ORD-1176,CUST-9577,2024-03-13,Trend Hub,Miami,South,Groceries,Online,Returning,15,1162.51,290.63,0
+ORD-1177,CUST-2413,2024-07-22,Trend Hub,Boston,East,Electronics,In-Store,VIP,1,200.48,44.11,0
+ORD-1178,CUST-4603,2025-05-16,QuickStop,Toronto,North,Beauty,Online,Returning,17,1868.59,373.72,0
+ORD-1179,CUST-8552,2024-12-27,QuickStop,Chicago,North,Electronics,Marketplace,VIP,13,3019.37,664.26,0
+ORD-1180,CUST-4081,2024-03-24,Daily Basket,Los Angeles,West,Home Goods,Wholesale,New,16,2671.68,480.9,0
+ORD-1181,CUST-5778,2024-12-25,Daily Basket,New York,East,Beauty,Marketplace,VIP,4,481.14,96.23,0
+ORD-1182,CUST-3527,2024-08-27,Daily Basket,Dallas,South,Electronics,Wholesale,VIP,5,1154.74,254.04,1
+ORD-1183,CUST-2378,2024-08-05,Urban Mart,Dallas,South,Apparel,Online,VIP,11,1475.5,236.08,0
+ORD-1184,CUST-6938,2025-05-19,Prime Market,New York,East,Beauty,Wholesale,Returning,6,705.67,141.13,0
+ORD-1185,CUST-9874,2024-02-09,QuickStop,Dallas,South,Apparel,In-Store,Returning,4,373.25,59.72,0
+ORD-1186,CUST-7745,2025-04-07,QuickStop,New York,East,Apparel,In-Store,VIP,13,1737.45,277.99,0
+ORD-1187,CUST-7611,2024-09-04,Value Cart,Boston,East,Electronics,In-Store,Returning,17,2726.46,599.82,0
+ORD-1188,CUST-5579,2025-02-07,QuickStop,Miami,South,Apparel,Online,VIP,11,1475.5,236.08,0
+ORD-1189,CUST-3326,2024-06-29,Value Cart,Miami,South,Apparel,In-Store,VIP,7,816.48,130.64,0
+ORD-1190,CUST-6965,2024-03-09,Trend Hub,Seattle,West,Beauty,Online,Returning,13,1513.69,302.74,1
+ORD-1191,CUST-9217,2025-04-30,Trend Hub,Dallas,South,Electronics,Marketplace,VIP,15,2834.35,623.56,0
+ORD-1192,CUST-3551,2024-12-31,QuickStop,Toronto,North,Home Goods,Marketplace,New,5,644.85,116.07,0
+ORD-1193,CUST-6240,2025-05-15,Trend Hub,Los Angeles,West,Groceries,Wholesale,Returning,12,1389.96,347.49,0
+ORD-1194,CUST-9784,2024-11-29,Trend Hub,New York,East,Beauty,Online,New,13,1134.71,226.94,0
+ORD-1195,CUST-4262,2024-08-28,Urban Mart,Boston,East,Apparel,In-Store,VIP,15,2004.75,320.76,0
+ORD-1196,CUST-5900,2024-08-30,QuickStop,Chicago,North,Groceries,In-Store,New,15,1058.46,264.62,0
+ORD-1197,CUST-3844,2024-08-30,Prime Market,Boston,East,Groceries,Online,Returning,16,1420.85,355.21,0
+ORD-1198,CUST-7862,2025-04-06,Urban Mart,Los Angeles,West,Beauty,Marketplace,VIP,4,546.75,109.35,0
+ORD-1199,CUST-5155,2024-12-08,Trend Hub,Dallas,South,Beauty,Wholesale,Returning,5,513.22,102.64,0
+ORD-1200,CUST-8744,2024-11-16,Trend Hub,Miami,South,Home Goods,Wholesale,VIP,5,940.9,169.36,0
+ORD-1201,CUST-7298,2024-07-19,Prime Market,Toronto,North,Apparel,Marketplace,New,15,1582.8,253.25,0
+ORD-1202,CUST-2733,2025-02-27,Urban Mart,New York,East,Home Goods,In-Store,VIP,5,816.75,147.01,0
+ORD-1203,CUST-9445,2024-01-15,Value Cart,Miami,South,Groceries,Marketplace,New,17,1054.01,263.5,1
+ORD-1204,CUST-6970,2024-03-16,Trend Hub,Boston,East,Home Goods,In-Store,VIP,4,653.4,117.61,0
+ORD-1205,CUST-3655,2025-01-23,Trend Hub,Los Angeles,West,Electronics,In-Store,Returning,10,1822.5,400.95,0
+ORD-1206,CUST-5647,2025-01-10,Urban Mart,Los Angeles,West,Groceries,Online,VIP,1,126.14,31.54,0
+ORD-1207,CUST-2889,2025-01-08,QuickStop,New York,East,Home Goods,In-Store,New,8,890.56,160.3,0
+ORD-1208,CUST-8488,2024-01-29,Daily Basket,Dallas,South,Home Goods,In-Store,VIP,12,1710.72,307.93,0
+ORD-1209,CUST-2997,2025-05-27,Trend Hub,Miami,South,Home Goods,Wholesale,VIP,14,2634.51,474.21,0
+ORD-1210,CUST-2381,2025-05-03,Value Cart,Miami,South,Groceries,Marketplace,New,6,372.0,93.0,0
+ORD-1211,CUST-1889,2024-06-02,Urban Mart,Chicago,North,Home Goods,Online,New,8,1098.63,197.75,0
+ORD-1212,CUST-2321,2024-01-20,Daily Basket,Dallas,South,Groceries,In-Store,New,1,57.41,14.35,0
+ORD-1213,CUST-5909,2024-05-26,Value Cart,Los Angeles,West,Apparel,Marketplace,New,2,223.56,35.77,0
+ORD-1214,CUST-7751,2025-02-07,Trend Hub,New York,East,Beauty,Online,Returning,10,1024.65,204.93,0
+ORD-1215,CUST-7836,2024-06-18,Trend Hub,Miami,South,Beauty,Online,Returning,13,1162.51,232.5,0
+ORD-1216,CUST-4586,2024-02-17,Urban Mart,Miami,South,Electronics,Online,VIP,2,402.41,88.53,0
+ORD-1217,CUST-9575,2025-04-11,Value Cart,Chicago,North,Electronics,In-Store,VIP,7,1505.38,331.18,0
+ORD-1218,CUST-6904,2025-06-17,Prime Market,Los Angeles,West,Electronics,Wholesale,New,9,1844.37,405.76,0
+ORD-1219,CUST-5176,2024-05-17,Value Cart,New York,East,Beauty,Wholesale,Returning,15,1764.18,352.84,0
+ORD-1220,CUST-3341,2024-01-15,QuickStop,New York,East,Beauty,In-Store,Returning,11,980.1,196.02,0
+ORD-1221,CUST-2190,2024-05-21,Daily Basket,Seattle,West,Home Goods,Wholesale,New,7,1168.86,210.39,0
+ORD-1222,CUST-1594,2024-10-12,Prime Market,Toronto,North,Apparel,Wholesale,VIP,15,2838.73,454.2,1
+ORD-1223,CUST-1855,2024-01-06,QuickStop,Chicago,North,Beauty,Wholesale,VIP,3,473.12,94.62,0
+ORD-1224,CUST-2936,2024-09-14,QuickStop,Seattle,West,Groceries,In-Store,New,6,448.5,112.12,0
+ORD-1225,CUST-1941,2024-09-10,Daily Basket,Toronto,North,Electronics,Online,VIP,2,494.63,108.82,0
+ORD-1226,CUST-3883,2024-08-19,Urban Mart,New York,East,Electronics,Wholesale,VIP,4,1058.51,232.87,0
+ORD-1227,CUST-8209,2024-05-13,Prime Market,Chicago,North,Home Goods,In-Store,VIP,11,1927.53,346.96,0
+ORD-1228,CUST-2037,2025-04-30,Daily Basket,Chicago,North,Electronics,Marketplace,New,1,158.28,34.82,0
+ORD-1229,CUST-2289,2024-08-10,QuickStop,Toronto,North,Groceries,Marketplace,New,14,1066.93,266.73,0
+ORD-1230,CUST-9536,2025-06-29,Trend Hub,Miami,South,Apparel,Online,New,8,731.29,117.01,0
+ORD-1231,CUST-3607,2025-05-15,Trend Hub,Los Angeles,West,Groceries,Marketplace,New,9,726.57,181.64,0
+ORD-1232,CUST-2152,2025-06-15,Daily Basket,Seattle,West,Home Goods,Marketplace,Returning,8,1283.04,230.95,0
+ORD-1233,CUST-6999,2024-04-28,Urban Mart,Chicago,North,Beauty,Marketplace,New,11,967.27,193.45,0
+ORD-1234,CUST-9394,2024-08-11,Daily Basket,Miami,South,Beauty,In-Store,VIP,14,1360.8,272.16,0
+ORD-1235,CUST-4153,2025-02-26,Prime Market,Miami,South,Groceries,Wholesale,Returning,8,711.66,177.91,0
+ORD-1236,CUST-1851,2024-10-30,QuickStop,Miami,South,Home Goods,Online,Returning,10,1311.55,236.08,0
+ORD-1237,CUST-5791,2024-09-30,Prime Market,Boston,East,Groceries,Online,VIP,10,1110.04,277.51,0
+ORD-1238,CUST-7019,2024-05-20,QuickStop,Boston,East,Groceries,Online,Returning,2,177.61,44.4,1
+ORD-1239,CUST-6548,2024-12-25,Prime Market,Los Angeles,West,Electronics,Marketplace,VIP,10,2460.38,541.28,1
+ORD-1240,CUST-7690,2024-01-22,QuickStop,Los Angeles,West,Apparel,Online,New,6,714.15,114.26,0
+ORD-1241,CUST-8924,2024-05-10,Prime Market,Miami,South,Apparel,Online,Returning,14,1502.32,240.37,0
+ORD-1242,CUST-2445,2025-04-25,QuickStop,Seattle,West,Apparel,Online,New,12,1428.3,228.53,0
+ORD-1243,CUST-8662,2024-03-22,Value Cart,Miami,South,Home Goods,Marketplace,New,17,1783.71,321.07,0
+ORD-1244,CUST-1909,2024-04-12,QuickStop,Los Angeles,West,Groceries,Wholesale,Returning,2,231.66,57.91,0
+ORD-1245,CUST-9413,2024-10-03,Value Cart,Miami,South,Beauty,Marketplace,VIP,11,1154.74,230.95,0
+ORD-1246,CUST-8538,2024-07-21,Urban Mart,Toronto,North,Electronics,Marketplace,VIP,4,929.04,204.39,0
+ORD-1247,CUST-4902,2025-01-21,QuickStop,Dallas,South,Electronics,Online,VIP,9,1810.84,398.38,0
+ORD-1248,CUST-6567,2025-01-12,Value Cart,New York,East,Beauty,Online,Returning,14,1434.51,286.9,1
+ORD-1249,CUST-5429,2024-11-13,Value Cart,Dallas,South,Groceries,Online,Returning,3,232.5,58.12,0
+ORD-1250,CUST-8279,2024-07-07,Value Cart,Toronto,North,Groceries,Online,Returning,4,381.05,95.26,0
+ORD-1251,CUST-2203,2024-05-14,Value Cart,Chicago,North,Groceries,Marketplace,VIP,11,1230.11,307.53,0
+ORD-1252,CUST-9627,2024-08-23,Trend Hub,Miami,South,Apparel,In-Store,VIP,9,1049.76,167.96,1
+ORD-1253,CUST-7855,2024-04-21,Trend Hub,Boston,East,Apparel,Marketplace,Returning,1,115.47,18.48,0
+ORD-1254,CUST-2401,2025-04-03,Trend Hub,Seattle,West,Electronics,Online,VIP,16,4191.75,922.19,0
+ORD-1255,CUST-2549,2024-02-07,Value Cart,Los Angeles,West,Beauty,In-Store,VIP,8,1012.5,202.5,1
+ORD-1256,CUST-9678,2025-06-13,Daily Basket,Miami,South,Electronics,Wholesale,New,4,629.54,138.5,0
+ORD-1257,CUST-4257,2025-01-03,Daily Basket,Seattle,West,Apparel,Marketplace,New,17,1900.26,304.04,0
+ORD-1258,CUST-5890,2025-05-31,QuickStop,New York,East,Beauty,In-Store,Returning,7,623.7,124.74,0
+ORD-1259,CUST-3519,2024-04-27,Daily Basket,Seattle,West,Beauty,In-Store,Returning,8,810.0,162.0,0
+ORD-1260,CUST-8018,2024-07-16,Urban Mart,Toronto,North,Electronics,Wholesale,New,10,1934.54,425.6,0
+ORD-1261,CUST-3543,2024-04-15,Value Cart,Los Angeles,West,Electronics,Online,New,3,535.61,117.83,0
+ORD-1262,CUST-9793,2025-06-17,Prime Market,Seattle,West,Apparel,Wholesale,VIP,15,3007.12,481.14,0
+ORD-1263,CUST-4278,2024-11-03,Urban Mart,Toronto,North,Groceries,Online,New,4,324.59,81.15,0
+ORD-1264,CUST-8204,2025-05-14,Value Cart,Dallas,South,Beauty,Marketplace,New,9,643.85,128.77,0
+ORD-1265,CUST-4664,2024-12-22,QuickStop,Los Angeles,West,Electronics,In-Store,New,2,310.5,68.31,0
+ORD-1266,CUST-5863,2024-08-27,QuickStop,Boston,East,Home Goods,In-Store,VIP,3,490.05,88.21,0
+ORD-1267,CUST-7907,2024-12-03,Value Cart,Miami,South,Electronics,Wholesale,New,8,1259.09,277.0,0
+ORD-1268,CUST-1965,2025-01-29,Daily Basket,Seattle,West,Groceries,Marketplace,New,14,1130.22,282.56,0
+ORD-1269,CUST-5612,2024-10-17,Value Cart,New York,East,Groceries,In-Store,New,17,1118.26,279.56,0
+ORD-1270,CUST-3051,2024-09-18,QuickStop,Seattle,West,Electronics,Wholesale,Returning,5,1202.85,264.63,0
+ORD-1271,CUST-7454,2024-11-30,QuickStop,Chicago,North,Electronics,In-Store,Returning,16,2752.7,605.59,0
+ORD-1272,CUST-4853,2024-02-03,Daily Basket,Los Angeles,West,Beauty,Wholesale,VIP,16,2673.0,534.6,0
+ORD-1273,CUST-9368,2024-04-15,Value Cart,Los Angeles,West,Home Goods,In-Store,Returning,12,1782.0,320.76,0
+ORD-1274,CUST-5551,2025-06-09,Value Cart,New York,East,Apparel,Wholesale,VIP,7,1234.93,197.59,0
+ORD-1275,CUST-4365,2024-09-24,Trend Hub,Dallas,South,Apparel,Wholesale,Returning,3,369.52,59.12,0
+ORD-1276,CUST-1996,2024-12-08,Trend Hub,Chicago,North,Groceries,Wholesale,New,10,931.44,232.86,0
+ORD-1277,CUST-7548,2025-03-14,Trend Hub,Toronto,North,Home Goods,In-Store,New,9,1074.74,193.45,0
+ORD-1278,CUST-5305,2025-02-20,QuickStop,Chicago,North,Electronics,Marketplace,Returning,14,2601.31,572.29,0
+ORD-1279,CUST-2341,2024-07-31,Trend Hub,Miami,South,Home Goods,Online,VIP,10,1639.44,295.1,0
+ORD-1280,CUST-8334,2024-02-08,Trend Hub,Miami,South,Beauty,Wholesale,VIP,2,256.61,51.32,0
+ORD-1281,CUST-4089,2024-08-28,Trend Hub,Seattle,West,Home Goods,In-Store,New,3,379.5,68.31,0
+ORD-1282,CUST-3454,2024-08-02,QuickStop,New York,East,Beauty,Online,New,4,349.14,69.83,0
+ORD-1283,CUST-1531,2024-01-08,Trend Hub,Dallas,South,Groceries,In-Store,VIP,5,421.2,105.3,0
+ORD-1284,CUST-9988,2025-05-23,Value Cart,Miami,South,Beauty,Online,VIP,11,1229.58,245.92,0
+ORD-1285,CUST-7393,2024-08-29,QuickStop,Los Angeles,West,Apparel,Marketplace,Returning,8,1049.76,167.96,1
+ORD-1286,CUST-6112,2024-01-09,Prime Market,New York,East,Apparel,In-Store,Returning,8,855.36,136.86,0
+ORD-1287,CUST-7934,2024-12-17,Urban Mart,Los Angeles,West,Beauty,Online,New,14,1388.62,277.72,0
+ORD-1288,CUST-4614,2025-06-28,Urban Mart,Boston,East,Groceries,Online,New,3,226.94,56.73,0
+ORD-1289,CUST-2938,2025-03-25,QuickStop,Boston,East,Apparel,In-Store,VIP,10,1336.5,213.84,0
+ORD-1290,CUST-4625,2024-04-02,Daily Basket,Toronto,North,Electronics,Wholesale,VIP,14,3974.22,874.33,0
+ORD-1291,CUST-9291,2024-01-02,Trend Hub,Boston,East,Beauty,Online,New,14,1221.99,244.4,0
+ORD-1292,CUST-3117,2025-05-14,Trend Hub,Seattle,West,Beauty,Marketplace,VIP,8,1093.5,218.7,0
+ORD-1293,CUST-7979,2024-07-06,Trend Hub,Los Angeles,West,Electronics,In-Store,VIP,8,1822.5,400.95,0
+ORD-1294,CUST-2917,2025-02-28,Value Cart,Boston,East,Home Goods,Wholesale,VIP,15,3234.33,582.18,1
+ORD-1295,CUST-7559,2024-11-08,QuickStop,New York,East,Groceries,Online,New,4,302.59,75.65,0
+ORD-1296,CUST-4343,2025-03-19,Urban Mart,Seattle,West,Home Goods,In-Store,VIP,3,556.88,100.24,0
+ORD-1297,CUST-7646,2024-04-04,Prime Market,Chicago,North,Apparel,In-Store,VIP,15,2150.55,344.09,0
+ORD-1298,CUST-9309,2025-01-12,Urban Mart,Chicago,North,Apparel,Wholesale,Returning,5,756.99,121.12,0
+ORD-1299,CUST-2563,2025-06-27,Daily Basket,New York,East,Groceries,Online,Returning,8,710.42,177.6,0
+ORD-1300,CUST-9167,2024-04-11,Trend Hub,Miami,South,Home Goods,Online,VIP,4,655.78,118.04,0
+ORD-1301,CUST-5620,2024-12-14,Trend Hub,Dallas,South,Electronics,In-Store,New,3,357.7,78.69,0
+ORD-1302,CUST-1316,2024-08-07,Prime Market,Seattle,West,Groceries,Wholesale,Returning,5,579.15,144.79,0
+ORD-1303,CUST-3233,2025-03-06,Daily Basket,New York,East,Electronics,Online,Returning,16,2950.99,649.22,0
+ORD-1304,CUST-3751,2025-04-09,Value Cart,Toronto,North,Electronics,Marketplace,VIP,10,2322.59,510.97,0
+ORD-1305,CUST-9776,2024-10-21,Urban Mart,Los Angeles,West,Electronics,Marketplace,New,16,2682.72,590.2,0
+ORD-1306,CUST-8383,2024-08-29,Trend Hub,Chicago,North,Apparel,Marketplace,VIP,1,154.84,24.77,0
+ORD-1307,CUST-5545,2024-12-05,Urban Mart,Miami,South,Groceries,Online,New,9,594.17,148.54,0
+ORD-1308,CUST-3220,2024-11-14,Daily Basket,Seattle,West,Beauty,Marketplace,VIP,14,1913.63,382.73,0
+ORD-1309,CUST-1071,2024-06-07,Value Cart,New York,East,Beauty,Online,Returning,14,1434.51,286.9,0
+ORD-1310,CUST-6743,2025-01-29,Urban Mart,Los Angeles,West,Groceries,In-Store,Returning,7,614.25,153.56,0
+ORD-1311,CUST-5648,2024-02-08,Urban Mart,Seattle,West,Apparel,In-Store,Returning,15,1822.5,291.6,0
+ORD-1312,CUST-3711,2025-03-06,Value Cart,New York,East,Groceries,In-Store,VIP,14,1351.35,337.84,0
+ORD-1313,CUST-5098,2024-04-23,Value Cart,Miami,South,Home Goods,Wholesale,VIP,15,2822.69,508.08,1
+ORD-1314,CUST-1496,2024-04-30,Trend Hub,Los Angeles,West,Apparel,Wholesale,Returning,9,1443.42,230.95,0
+ORD-1315,CUST-4238,2025-03-23,Urban Mart,Los Angeles,West,Groceries,In-Store,Returning,17,1491.75,372.94,1
+ORD-1316,CUST-8970,2025-02-14,Value Cart,New York,East,Groceries,Online,VIP,13,1443.05,360.76,0
+ORD-1317,CUST-4063,2024-10-26,Daily Basket,New York,East,Beauty,Online,VIP,4,512.33,102.47,1
+ORD-1318,CUST-5783,2025-06-08,Urban Mart,Dallas,South,Beauty,In-Store,VIP,16,1555.2,311.04,0
+ORD-1319,CUST-1523,2024-03-08,Value Cart,Miami,South,Home Goods,Online,New,16,1787.6,321.77,0
+ORD-1320,CUST-9125,2024-07-10,Urban Mart,Los Angeles,West,Electronics,In-Store,VIP,3,683.44,150.36,0
+ORD-1321,CUST-4423,2025-03-27,Trend Hub,Dallas,South,Home Goods,Online,New,2,223.45,40.22,0
+ORD-1322,CUST-8444,2024-02-09,Urban Mart,Chicago,North,Electronics,Online,New,9,1516.85,333.71,0
+ORD-1323,CUST-9448,2024-02-16,Value Cart,Seattle,West,Apparel,Marketplace,New,11,1229.58,196.73,0
+ORD-1324,CUST-2527,2025-01-24,Daily Basket,Miami,South,Home Goods,Online,Returning,2,262.31,47.22,0
+ORD-1325,CUST-9575,2025-03-03,Urban Mart,Miami,South,Beauty,Online,VIP,15,1676.7,335.34,0
+ORD-1326,CUST-3768,2025-01-10,QuickStop,Boston,East,Electronics,Marketplace,VIP,4,866.05,190.53,0
+ORD-1327,CUST-4052,2024-09-04,QuickStop,Boston,East,Electronics,In-Store,VIP,10,2004.75,441.05,0
+ORD-1328,CUST-2215,2024-10-30,Prime Market,Dallas,South,Beauty,Online,Returning,16,1430.78,286.16,0
+ORD-1329,CUST-4916,2024-12-03,Daily Basket,Boston,East,Beauty,Online,VIP,8,1024.65,204.93,0
+ORD-1330,CUST-3133,2024-02-17,Trend Hub,Seattle,West,Apparel,Marketplace,VIP,14,2296.35,367.42,0
+ORD-1331,CUST-7492,2024-09-10,Daily Basket,New York,East,Groceries,In-Store,Returning,9,694.98,173.75,0
+ORD-1332,CUST-7636,2025-05-22,QuickStop,Seattle,West,Apparel,Wholesale,Returning,17,2726.46,436.23,1
+ORD-1333,CUST-9712,2024-08-12,Prime Market,Boston,East,Apparel,Marketplace,Returning,9,1039.26,166.28,0
+ORD-1334,CUST-1856,2025-06-10,Value Cart,New York,East,Electronics,In-Store,New,3,409.86,90.17,1
+ORD-1335,CUST-9778,2024-12-19,Daily Basket,Miami,South,Apparel,Wholesale,VIP,1,153.96,24.63,0
+ORD-1336,CUST-3935,2024-03-25,QuickStop,Chicago,North,Electronics,In-Store,Returning,4,688.18,151.4,0
+ORD-1337,CUST-2407,2024-06-17,Daily Basket,Miami,South,Electronics,Online,New,16,2193.87,482.65,0
+ORD-1338,CUST-3581,2025-02-17,Prime Market,Dallas,South,Groceries,Marketplace,New,13,806.01,201.5,0
+ORD-1339,CUST-4067,2025-01-08,Value Cart,Dallas,South,Beauty,Marketplace,New,17,1216.17,243.23,0
+ORD-1340,CUST-5756,2024-12-15,Prime Market,Boston,East,Groceries,In-Store,New,7,460.46,115.11,0
+ORD-1341,CUST-6235,2024-05-02,Prime Market,Dallas,South,Home Goods,Marketplace,Returning,17,2093.92,376.91,0
+ORD-1342,CUST-6046,2025-03-12,Urban Mart,Seattle,West,Home Goods,Wholesale,Returning,2,392.04,70.57,0
+ORD-1343,CUST-5747,2024-11-10,Prime Market,New York,East,Beauty,Wholesale,VIP,6,882.09,176.42,0
+ORD-1344,CUST-3050,2024-03-10,Value Cart,Miami,South,Groceries,Marketplace,Returning,1,72.78,18.2,0
+ORD-1345,CUST-9025,2025-06-22,Urban Mart,New York,East,Groceries,In-Store,New,4,263.12,65.78,0
+ORD-1346,CUST-1195,2024-05-30,Urban Mart,New York,East,Electronics,Marketplace,Returning,14,2424.95,533.49,0
+ORD-1347,CUST-5066,2024-02-26,Value Cart,Chicago,North,Home Goods,In-Store,VIP,8,1401.84,252.33,1
+ORD-1348,CUST-9134,2025-03-15,Urban Mart,Boston,East,Electronics,Wholesale,New,11,1983.72,436.42,0
+ORD-1349,CUST-9636,2025-01-07,Trend Hub,Chicago,North,Groceries,Wholesale,New,13,1210.88,302.72,0
+ORD-1350,CUST-4236,2025-06-05,Value Cart,Seattle,West,Home Goods,Marketplace,Returning,14,2245.32,404.16,0
+ORD-1351,CUST-5892,2025-02-05,Prime Market,Toronto,North,Apparel,Wholesale,Returning,1,151.4,24.22,0
+ORD-1352,CUST-7404,2024-12-18,Value Cart,Chicago,North,Beauty,Wholesale,VIP,4,630.83,126.17,0
+ORD-1353,CUST-6175,2025-04-18,Value Cart,Dallas,South,Beauty,Online,New,1,76.18,15.24,0
+ORD-1354,CUST-9330,2024-09-05,Urban Mart,Toronto,North,Electronics,Online,VIP,10,2473.13,544.09,0
+ORD-1355,CUST-8856,2024-11-28,Urban Mart,Los Angeles,West,Home Goods,Marketplace,Returning,17,2726.46,490.76,1
+ORD-1356,CUST-5952,2025-02-21,Trend Hub,Boston,East,Groceries,Online,VIP,4,444.02,111.0,1
+ORD-1357,CUST-5515,2024-02-06,Value Cart,Seattle,West,Groceries,Wholesale,Returning,8,926.64,231.66,0
+ORD-1358,CUST-8639,2024-03-25,Daily Basket,Boston,East,Electronics,Wholesale,VIP,4,1058.51,232.87,0
+ORD-1359,CUST-9729,2025-01-30,Trend Hub,Boston,East,Groceries,Marketplace,New,13,923.55,230.89,0
+ORD-1360,CUST-7606,2024-04-05,Daily Basket,Miami,South,Apparel,Wholesale,VIP,9,1385.68,221.71,0
+ORD-1361,CUST-5296,2025-06-01,Prime Market,Los Angeles,West,Electronics,Marketplace,VIP,5,1230.19,270.64,0
+ORD-1362,CUST-2355,2025-05-21,Urban Mart,Toronto,North,Beauty,Wholesale,VIP,10,1577.07,315.41,1
+ORD-1363,CUST-2262,2025-01-01,Prime Market,Boston,East,Home Goods,Online,Returning,9,1352.54,243.46,0
+ORD-1364,CUST-8583,2024-06-04,Urban Mart,New York,East,Groceries,Wholesale,Returning,6,611.58,152.9,0
+ORD-1365,CUST-3545,2025-03-14,Value Cart,Seattle,West,Electronics,Online,Returning,16,3353.4,737.75,0
+ORD-1366,CUST-3579,2024-03-18,Trend Hub,Miami,South,Beauty,Online,New,10,761.76,152.35,0
+ORD-1367,CUST-7167,2024-04-24,Prime Market,Dallas,South,Apparel,Wholesale,New,5,524.62,83.94,1
+ORD-1368,CUST-1123,2024-12-02,Trend Hub,Miami,South,Beauty,Marketplace,New,8,572.31,114.46,0
+ORD-1369,CUST-2847,2024-07-02,Prime Market,Miami,South,Beauty,Marketplace,New,7,500.77,100.15,0
+ORD-1370,CUST-4791,2024-11-20,Value Cart,Toronto,North,Apparel,Marketplace,Returning,15,1858.08,297.29,0
+ORD-1371,CUST-9134,2024-02-23,QuickStop,Los Angeles,West,Home Goods,Online,VIP,11,2348.16,422.67,0
+ORD-1372,CUST-9828,2024-06-04,Value Cart,Los Angeles,West,Beauty,In-Store,VIP,17,2151.56,430.31,1
+ORD-1373,CUST-2710,2024-07-19,Value Cart,Dallas,South,Apparel,Online,VIP,6,804.82,128.77,0
+ORD-1374,CUST-5317,2024-01-09,Urban Mart,Toronto,North,Groceries,Wholesale,New,1,93.14,23.29,0
+ORD-1375,CUST-8097,2024-06-08,Urban Mart,Miami,South,Home Goods,Online,VIP,17,2787.05,501.67,0
+ORD-1376,CUST-5521,2024-10-02,Value Cart,Toronto,North,Apparel,Online,VIP,13,2143.38,342.94,0
+ORD-1377,CUST-4721,2025-06-16,Value Cart,Dallas,South,Beauty,Marketplace,New,8,572.31,114.46,0
+ORD-1378,CUST-2678,2025-04-12,Trend Hub,Seattle,West,Apparel,Marketplace,VIP,4,656.1,104.98,0
+ORD-1379,CUST-5562,2024-04-19,Prime Market,Toronto,North,Apparel,Online,VIP,12,1978.51,316.56,0
+ORD-1380,CUST-7450,2025-01-04,Value Cart,Miami,South,Home Goods,In-Store,Returning,6,684.29,123.17,0
+ORD-1381,CUST-4862,2024-12-23,QuickStop,Miami,South,Electronics,Wholesale,New,4,629.54,138.5,0
+ORD-1382,CUST-3145,2024-07-06,Value Cart,New York,East,Apparel,Wholesale,New,17,2043.84,327.01,0
+ORD-1383,CUST-4742,2024-07-07,Daily Basket,Toronto,North,Groceries,Marketplace,New,11,838.3,209.57,0
+ORD-1384,CUST-5671,2025-01-25,Prime Market,Boston,East,Home Goods,Wholesale,New,2,293.88,52.9,0
+ORD-1385,CUST-3329,2025-03-03,Value Cart,Toronto,North,Home Goods,Online,New,16,2197.25,395.5,0
+ORD-1386,CUST-1295,2024-01-22,Daily Basket,Seattle,West,Home Goods,In-Store,New,15,1897.5,341.55,0
+ORD-1387,CUST-3942,2024-05-29,Prime Market,Chicago,North,Apparel,In-Store,VIP,6,860.22,137.64,0
+ORD-1388,CUST-9916,2024-02-19,Trend Hub,New York,East,Home Goods,In-Store,VIP,11,1796.85,323.43,0
+ORD-1389,CUST-7600,2024-01-25,Value Cart,Boston,East,Groceries,In-Store,New,14,920.92,230.23,0
+ORD-1390,CUST-8256,2025-04-06,Trend Hub,Dallas,South,Apparel,Online,VIP,13,1743.77,279.0,0
+ORD-1391,CUST-3488,2024-02-07,Urban Mart,Seattle,West,Groceries,Marketplace,Returning,14,1326.78,331.69,0
+ORD-1392,CUST-6421,2024-12-24,Daily Basket,Toronto,North,Beauty,Wholesale,VIP,14,2207.9,441.58,0
+ORD-1393,CUST-5162,2024-07-09,Trend Hub,Chicago,North,Groceries,In-Store,VIP,1,103.55,25.89,0
+ORD-1394,CUST-3432,2024-05-25,QuickStop,Seattle,West,Apparel,Online,VIP,4,698.62,111.78,0
+ORD-1395,CUST-4369,2025-05-16,Trend Hub,Dallas,South,Beauty,Wholesale,New,8,699.49,139.9,0
+ORD-1396,CUST-4720,2024-10-01,Daily Basket,Toronto,North,Home Goods,Wholesale,Returning,10,1850.43,333.08,0
+ORD-1397,CUST-2493,2025-06-11,QuickStop,Dallas,South,Electronics,Marketplace,Returning,17,2569.81,565.36,0
+ORD-1398,CUST-6256,2024-03-18,Value Cart,Los Angeles,West,Electronics,Online,VIP,6,1571.91,345.82,0
+ORD-1399,CUST-4032,2024-03-31,Urban Mart,Los Angeles,West,Home Goods,Wholesale,Returning,13,2548.26,458.69,1
+ORD-1400,CUST-3326,2024-11-23,Urban Mart,Chicago,North,Electronics,Wholesale,Returning,6,1362.59,299.77,0
+ORD-1401,CUST-2085,2024-07-26,QuickStop,Toronto,North,Home Goods,Marketplace,New,4,515.88,92.86,0
+ORD-1402,CUST-1937,2024-11-17,Prime Market,Dallas,South,Apparel,In-Store,New,13,1033.34,165.33,0
+ORD-1403,CUST-9083,2025-02-21,QuickStop,Miami,South,Home Goods,In-Store,VIP,16,2280.96,410.57,1
+ORD-1404,CUST-4196,2024-03-03,Value Cart,Boston,East,Groceries,In-Store,New,6,394.68,98.67,0
+ORD-1405,CUST-6511,2025-02-07,Trend Hub,Miami,South,Apparel,Marketplace,VIP,5,629.86,100.78,0
+ORD-1406,CUST-6898,2024-02-06,Urban Mart,New York,East,Beauty,Online,Returning,11,1127.12,225.42,0
+ORD-1407,CUST-9447,2025-03-13,Daily Basket,Los Angeles,West,Apparel,Marketplace,Returning,3,393.66,62.99,0
+ORD-1408,CUST-4319,2024-07-20,Prime Market,Los Angeles,West,Home Goods,Marketplace,New,8,1092.96,196.73,0
+ORD-1409,CUST-3200,2024-12-29,Trend Hub,Miami,South,Beauty,In-Store,New,11,728.64,145.73,0
+ORD-1410,CUST-6287,2024-07-07,QuickStop,Boston,East,Beauty,Online,Returning,5,512.33,102.47,0
+ORD-1411,CUST-9912,2024-06-12,QuickStop,New York,East,Groceries,Marketplace,Returning,1,83.4,20.85,0
+ORD-1412,CUST-6057,2025-01-16,Daily Basket,Boston,East,Apparel,Online,New,8,837.94,134.07,0
+ORD-1413,CUST-9338,2025-01-20,Value Cart,Seattle,West,Electronics,Wholesale,VIP,15,4510.69,992.35,0
+ORD-1414,CUST-1327,2024-12-01,Value Cart,Dallas,South,Groceries,Wholesale,VIP,1,111.2,27.8,0
+ORD-1415,CUST-9072,2025-01-22,QuickStop,Toronto,North,Beauty,Wholesale,Returning,8,1009.32,201.86,0
+ORD-1416,CUST-8991,2024-07-04,Trend Hub,Boston,East,Home Goods,Wholesale,New,9,1322.48,238.05,0
+ORD-1417,CUST-2931,2024-02-15,Trend Hub,Toronto,North,Electronics,Marketplace,New,13,2057.65,452.68,0
+ORD-1418,CUST-1388,2024-06-17,Daily Basket,New York,East,Electronics,Online,VIP,11,2536.01,557.92,1
+ORD-1419,CUST-8850,2025-06-06,QuickStop,Boston,East,Home Goods,Marketplace,New,9,1082.03,194.77,0
+ORD-1420,CUST-6382,2024-08-26,Daily Basket,Toronto,North,Apparel,Wholesale,Returning,5,756.99,121.12,0
+ORD-1421,CUST-2330,2024-12-03,Urban Mart,Los Angeles,West,Home Goods,In-Store,New,4,506.0,91.08,0
+ORD-1422,CUST-9272,2024-06-06,Urban Mart,Miami,South,Beauty,Marketplace,Returning,11,923.79,184.76,1
+ORD-1423,CUST-3982,2025-06-05,Prime Market,Toronto,North,Beauty,Online,New,5,468.16,93.63,0
+ORD-1424,CUST-6223,2024-04-24,Urban Mart,Toronto,North,Apparel,In-Store,Returning,15,1720.44,275.27,0
+ORD-1425,CUST-8491,2024-06-19,Urban Mart,Seattle,West,Beauty,In-Store,New,12,1035.0,207.0,0
+ORD-1426,CUST-1622,2024-07-21,Value Cart,Boston,East,Electronics,In-Store,New,12,1639.44,360.68,0
+ORD-1427,CUST-1678,2025-06-02,Daily Basket,Miami,South,Electronics,Online,VIP,15,3018.06,663.97,0
+ORD-1428,CUST-3112,2024-02-18,QuickStop,Miami,South,Electronics,Wholesale,VIP,13,3002.31,660.51,0
+ORD-1429,CUST-4608,2025-02-24,Daily Basket,Miami,South,Groceries,In-Store,New,9,516.67,129.17,0
+ORD-1430,CUST-8976,2024-03-23,QuickStop,Boston,East,Electronics,In-Store,Returning,2,320.76,70.57,0
+ORD-1431,CUST-3383,2025-05-17,Trend Hub,Boston,East,Groceries,In-Store,New,7,460.46,115.11,0
+ORD-1432,CUST-4285,2024-09-09,Daily Basket,Miami,South,Home Goods,Marketplace,New,15,1573.86,283.29,0
+ORD-1433,CUST-1880,2025-03-17,Value Cart,Seattle,West,Apparel,Online,Returning,12,1676.7,268.27,0
+ORD-1434,CUST-7859,2024-05-09,Value Cart,Miami,South,Electronics,Online,New,6,822.7,180.99,0
+ORD-1435,CUST-8598,2024-05-27,Daily Basket,Toronto,North,Electronics,Online,VIP,11,2720.45,598.5,0
+ORD-1436,CUST-3318,2024-07-15,Trend Hub,New York,East,Apparel,Online,VIP,17,2612.86,418.06,0
+ORD-1437,CUST-5210,2024-10-02,Value Cart,Toronto,North,Beauty,Wholesale,New,14,1504.64,300.93,0
+ORD-1438,CUST-3676,2025-05-03,Trend Hub,Dallas,South,Home Goods,Wholesale,Returning,13,1957.06,352.27,0
+ORD-1439,CUST-9264,2024-10-19,Daily Basket,Los Angeles,West,Groceries,Marketplace,Returning,8,758.16,189.54,0
+ORD-1440,CUST-1606,2024-09-23,Prime Market,Miami,South,Home Goods,Marketplace,Returning,3,369.52,66.51,0
+ORD-1441,CUST-9357,2025-02-21,Trend Hub,Toronto,North,Beauty,Marketplace,VIP,2,258.07,51.61,0
+ORD-1442,CUST-7815,2025-01-31,Urban Mart,Toronto,North,Beauty,Marketplace,Returning,5,516.13,103.23,0
+ORD-1443,CUST-1532,2025-05-02,Value Cart,Boston,East,Apparel,In-Store,VIP,12,1603.8,256.61,0
+ORD-1444,CUST-9978,2024-11-17,Prime Market,Chicago,North,Apparel,Wholesale,VIP,7,1324.74,211.96,0
+ORD-1445,CUST-5337,2024-01-04,Value Cart,Chicago,North,Home Goods,In-Store,VIP,10,1752.3,315.41,1
+ORD-1446,CUST-7481,2024-08-09,Daily Basket,Los Angeles,West,Apparel,In-Store,Returning,11,1336.5,213.84,0
+ORD-1447,CUST-1941,2024-06-05,Value Cart,Los Angeles,West,Groceries,Wholesale,New,11,1085.37,271.34,0
+ORD-1448,CUST-1813,2024-05-29,QuickStop,Los Angeles,West,Groceries,Wholesale,VIP,6,868.73,217.18,0
+ORD-1449,CUST-3662,2024-04-09,Daily Basket,Toronto,North,Groceries,Marketplace,Returning,11,984.09,246.02,0
+ORD-1450,CUST-5677,2024-07-04,QuickStop,New York,East,Groceries,Online,VIP,7,777.03,194.26,0
+ORD-1451,CUST-4434,2024-06-29,Urban Mart,Chicago,North,Home Goods,Online,New,7,961.3,173.03,0
+ORD-1452,CUST-8340,2024-10-03,QuickStop,Seattle,West,Electronics,Online,Returning,1,209.59,46.11,0
+ORD-1453,CUST-2684,2025-04-02,Daily Basket,Los Angeles,West,Apparel,Online,VIP,11,1921.22,307.4,0
+ORD-1454,CUST-5698,2024-08-07,QuickStop,Toronto,North,Groceries,Marketplace,VIP,12,1341.94,335.49,0
+ORD-1455,CUST-7952,2024-12-17,Daily Basket,Chicago,North,Beauty,In-Store,New,1,81.42,16.28,0
+ORD-1456,CUST-9462,2025-06-03,Daily Basket,Dallas,South,Home Goods,Marketplace,New,11,1154.17,207.75,0
+ORD-1457,CUST-3286,2024-01-31,Value Cart,Boston,East,Groceries,In-Store,VIP,8,772.2,193.05,0
+ORD-1458,CUST-3040,2024-02-22,Trend Hub,New York,East,Groceries,In-Store,New,1,65.78,16.45,0
+ORD-1459,CUST-3626,2025-06-28,Urban Mart,Toronto,North,Home Goods,Wholesale,VIP,7,1619.13,291.44,0
+ORD-1460,CUST-8460,2025-05-13,QuickStop,Miami,South,Groceries,Online,VIP,17,1646.89,411.72,0
+ORD-1461,CUST-9182,2024-10-21,Value Cart,Boston,East,Apparel,Wholesale,Returning,1,141.13,22.58,0
+ORD-1462,CUST-5587,2024-11-16,Urban Mart,Chicago,North,Home Goods,In-Store,New,14,1671.82,300.93,0
+ORD-1463,CUST-1419,2024-01-01,Prime Market,Dallas,South,Groceries,Online,New,9,594.17,148.54,0
+ORD-1464,CUST-5889,2025-06-14,Value Cart,Miami,South,Home Goods,Marketplace,New,10,1049.24,188.86,0
+ORD-1465,CUST-3144,2024-02-29,QuickStop,Boston,East,Home Goods,In-Store,Returning,12,1568.16,282.27,1
+ORD-1466,CUST-7104,2024-05-23,QuickStop,Miami,South,Electronics,Marketplace,Returning,11,1662.82,365.82,0
+ORD-1467,CUST-5126,2024-05-15,Value Cart,Boston,East,Home Goods,In-Store,Returning,1,130.68,23.52,0
+ORD-1468,CUST-7758,2024-12-24,Prime Market,Chicago,North,Electronics,Wholesale,Returning,11,2498.08,549.58,0
+ORD-1469,CUST-2241,2024-07-21,Value Cart,New York,East,Home Goods,Wholesale,VIP,15,3234.33,582.18,0
+ORD-1470,CUST-2751,2025-05-21,Trend Hub,Miami,South,Groceries,In-Store,New,13,746.3,186.57,1
+ORD-1471,CUST-8691,2024-11-25,Prime Market,Dallas,South,Home Goods,Online,New,8,893.8,160.88,0
+ORD-1472,CUST-3658,2025-02-23,Daily Basket,Boston,East,Beauty,Marketplace,New,14,1147.61,229.52,0
+ORD-1473,CUST-8527,2024-09-28,Prime Market,Toronto,North,Groceries,Marketplace,Returning,17,1520.87,380.22,0
+ORD-1474,CUST-2297,2024-12-31,Daily Basket,New York,East,Beauty,In-Store,New,2,151.8,30.36,0
+ORD-1475,CUST-5751,2025-03-15,Value Cart,Chicago,North,Electronics,In-Store,New,16,2344.9,515.88,0
+ORD-1476,CUST-2777,2024-09-26,Urban Mart,Dallas,South,Home Goods,Online,Returning,6,786.93,141.65,0
+ORD-1477,CUST-6257,2024-11-01,QuickStop,Los Angeles,West,Home Goods,Marketplace,VIP,17,3408.08,613.45,0
+ORD-1478,CUST-4083,2025-05-24,Urban Mart,Los Angeles,West,Apparel,Wholesale,Returning,6,962.28,153.96,0
+ORD-1479,CUST-7289,2025-01-01,Urban Mart,Chicago,North,Apparel,In-Store,VIP,16,2293.92,367.03,0
+ORD-1480,CUST-8405,2024-10-11,Trend Hub,Toronto,North,Apparel,Wholesale,New,5,644.85,103.18,0
+ORD-1481,CUST-8455,2025-01-25,Daily Basket,Boston,East,Groceries,Wholesale,New,15,1302.44,325.61,0
+ORD-1482,CUST-8616,2025-04-27,QuickStop,Dallas,South,Beauty,Online,Returning,3,268.27,53.65,0
+ORD-1483,CUST-2878,2024-04-06,Daily Basket,Miami,South,Home Goods,Wholesale,New,8,1025.93,184.67,0
+ORD-1484,CUST-8565,2024-08-03,Value Cart,Dallas,South,Electronics,Marketplace,New,6,772.62,169.98,0
+ORD-1485,CUST-6465,2025-05-14,Trend Hub,Dallas,South,Electronics,In-Store,Returning,14,1959.55,431.1,0
+ORD-1486,CUST-5025,2024-02-08,Prime Market,Boston,East,Apparel,In-Store,Returning,10,1069.2,171.07,0
+ORD-1487,CUST-7251,2024-09-29,Value Cart,Miami,South,Home Goods,Wholesale,New,9,1154.17,207.75,0
+ORD-1488,CUST-2381,2025-02-11,Value Cart,Toronto,North,Groceries,Wholesale,VIP,5,683.4,170.85,0
+ORD-1489,CUST-5373,2024-12-29,Daily Basket,Dallas,South,Home Goods,Online,VIP,12,1967.33,354.12,0
+ORD-1490,CUST-9881,2024-10-06,Prime Market,Chicago,North,Home Goods,Online,VIP,4,806.06,145.09,0
+ORD-1491,CUST-8662,2024-04-07,Daily Basket,Chicago,North,Apparel,Online,VIP,7,1154.13,184.66,0
+ORD-1492,CUST-7385,2025-01-11,Urban Mart,Boston,East,Home Goods,Wholesale,VIP,10,2156.22,388.12,0
+ORD-1493,CUST-1662,2024-10-04,Trend Hub,Seattle,West,Home Goods,Online,Returning,11,1878.53,338.14,0
+ORD-1494,CUST-3037,2024-05-15,Daily Basket,Miami,South,Electronics,Online,VIP,17,3420.47,752.5,0
+ORD-1495,CUST-3265,2024-10-14,Urban Mart,Seattle,West,Apparel,Wholesale,Returning,9,1443.42,230.95,0
+ORD-1496,CUST-8061,2024-07-13,Prime Market,New York,East,Electronics,In-Store,VIP,15,3007.12,661.57,0
+ORD-1497,CUST-1305,2024-03-28,QuickStop,Dallas,South,Groceries,Online,VIP,6,581.26,145.31,0
+ORD-1498,CUST-5766,2024-07-01,Value Cart,New York,East,Apparel,Marketplace,New,1,98.37,15.74,0
+ORD-1499,CUST-8747,2024-02-21,Urban Mart,Boston,East,Home Goods,Marketplace,Returning,3,423.4,76.21,0
+ORD-1500,CUST-5472,2024-07-16,Trend Hub,Dallas,South,Home Goods,Marketplace,New,14,1468.94,264.41,1
+ORD-1501,CUST-4651,2025-06-01,Daily Basket,Toronto,North,Apparel,Marketplace,New,2,211.04,33.77,0
+ORD-1502,CUST-5725,2025-03-12,Value Cart,Los Angeles,West,Beauty,Wholesale,VIP,10,1670.62,334.12,0
+ORD-1503,CUST-5549,2025-02-14,Urban Mart,Los Angeles,West,Apparel,In-Store,New,2,207.0,33.12,0
+ORD-1504,CUST-2455,2024-08-31,Urban Mart,Chicago,North,Groceries,Marketplace,VIP,5,559.14,139.78,0
+ORD-1505,CUST-5991,2024-04-29,Urban Mart,Seattle,West,Home Goods,Marketplace,Returning,7,1122.66,202.08,0
+ORD-1506,CUST-1929,2024-10-08,Value Cart,Toronto,North,Electronics,In-Store,New,14,2051.78,451.39,0
+ORD-1507,CUST-6204,2024-04-30,Trend Hub,Miami,South,Beauty,Wholesale,New,12,1049.24,209.85,0
+ORD-1508,CUST-7657,2025-05-26,Value Cart,Miami,South,Groceries,Wholesale,New,8,606.23,151.56,0
+ORD-1509,CUST-7777,2025-03-18,Value Cart,Seattle,West,Apparel,Wholesale,VIP,7,1403.33,224.53,0
+ORD-1510,CUST-6362,2025-02-25,Urban Mart,Dallas,South,Apparel,Wholesale,New,8,839.39,134.3,0
+ORD-1511,CUST-1196,2024-05-31,Trend Hub,Chicago,North,Apparel,Wholesale,VIP,4,756.99,121.12,0
+ORD-1512,CUST-1254,2024-01-25,Trend Hub,Chicago,North,Beauty,In-Store,New,8,651.36,130.27,0
+ORD-1513,CUST-7073,2024-10-12,Value Cart,Dallas,South,Home Goods,In-Store,New,16,1554.43,279.8,0
+ORD-1514,CUST-7650,2025-01-06,QuickStop,New York,East,Groceries,Marketplace,VIP,16,1667.95,416.99,0
+ORD-1515,CUST-5919,2024-05-14,Daily Basket,Chicago,North,Apparel,Wholesale,New,4,515.88,82.54,0
+ORD-1516,CUST-6847,2024-09-10,Daily Basket,Chicago,North,Beauty,In-Store,Returning,17,1624.86,324.97,0
+ORD-1517,CUST-7826,2024-10-12,Urban Mart,Dallas,South,Electronics,Marketplace,Returning,8,1209.32,266.05,0
+ORD-1518,CUST-1577,2024-05-14,Prime Market,Seattle,West,Apparel,Marketplace,New,10,1117.8,178.85,0
+ORD-1519,CUST-5824,2025-01-28,Prime Market,Dallas,South,Home Goods,In-Store,New,14,1360.13,244.82,0
+ORD-1520,CUST-7729,2025-02-18,Prime Market,Dallas,South,Beauty,Marketplace,Returning,4,335.92,67.18,0
+ORD-1521,CUST-8513,2025-06-20,Value Cart,Dallas,South,Home Goods,In-Store,Returning,2,228.1,41.06,0
+ORD-1522,CUST-1325,2024-03-08,Value Cart,Seattle,West,Apparel,In-Store,VIP,4,607.5,97.2,0
+ORD-1523,CUST-2074,2025-05-02,Urban Mart,Miami,South,Apparel,Online,VIP,3,402.41,64.39,0
+ORD-1524,CUST-2456,2024-05-30,Trend Hub,Toronto,North,Apparel,Wholesale,New,3,386.91,61.91,0
+ORD-1525,CUST-5432,2024-06-21,Trend Hub,New York,East,Apparel,Wholesale,New,4,480.9,76.94,1
+ORD-1526,CUST-9830,2025-05-29,Daily Basket,Miami,South,Electronics,Online,New,16,2193.87,482.65,0
+ORD-1527,CUST-8815,2024-12-19,QuickStop,Boston,East,Beauty,Online,Returning,17,1741.91,348.38,0
+ORD-1528,CUST-2342,2024-12-06,Urban Mart,New York,East,Home Goods,In-Store,VIP,6,980.1,176.42,0
+ORD-1529,CUST-4539,2024-09-20,Value Cart,Dallas,South,Home Goods,Marketplace,Returning,1,123.17,22.17,0
+ORD-1530,CUST-7060,2024-11-06,QuickStop,Boston,East,Electronics,Wholesale,Returning,3,635.1,139.72,0
+ORD-1531,CUST-8002,2024-06-29,Trend Hub,Chicago,North,Home Goods,Marketplace,VIP,1,189.25,34.06,0
+ORD-1532,CUST-1539,2025-06-30,QuickStop,New York,East,Electronics,Online,VIP,11,2536.01,557.92,0
+ORD-1533,CUST-6195,2024-05-19,Value Cart,New York,East,Apparel,In-Store,Returning,12,1283.04,205.29,0
+ORD-1534,CUST-5245,2024-04-23,Daily Basket,Los Angeles,West,Groceries,Marketplace,VIP,14,1658.48,414.62,0
+ORD-1535,CUST-2177,2025-01-24,Trend Hub,Chicago,North,Beauty,Online,New,17,1591.76,318.35,0
+ORD-1536,CUST-3919,2025-03-21,Value Cart,Seattle,West,Home Goods,Wholesale,Returning,3,588.06,105.85,0
+ORD-1537,CUST-5216,2024-01-12,QuickStop,Los Angeles,West,Groceries,Online,New,14,1203.48,300.87,0
+ORD-1538,CUST-1106,2025-05-14,Trend Hub,Los Angeles,West,Home Goods,Wholesale,New,9,1502.82,270.51,0
+ORD-1539,CUST-2017,2025-01-07,Daily Basket,Seattle,West,Beauty,Marketplace,VIP,2,273.38,54.68,0
+ORD-1540,CUST-6164,2024-05-20,Prime Market,Los Angeles,West,Home Goods,Marketplace,New,3,409.86,73.77,0
+ORD-1541,CUST-4603,2024-05-19,Value Cart,Miami,South,Home Goods,Online,New,16,1787.6,321.77,0
+ORD-1542,CUST-8875,2025-03-24,Daily Basket,Chicago,North,Beauty,Online,VIP,11,1511.36,302.27,0
+ORD-1543,CUST-5476,2025-03-29,Urban Mart,Dallas,South,Beauty,Wholesale,New,2,174.87,34.97,0
+ORD-1544,CUST-8116,2024-02-03,QuickStop,Los Angeles,West,Electronics,Online,Returning,11,2305.46,507.2,0
+ORD-1545,CUST-2194,2024-03-17,Value Cart,Dallas,South,Groceries,Wholesale,New,9,682.01,170.5,0
+ORD-1546,CUST-6346,2024-04-24,Daily Basket,Los Angeles,West,Electronics,Wholesale,VIP,11,3307.84,727.72,0
+ORD-1547,CUST-3985,2024-06-02,Urban Mart,New York,East,Home Goods,Marketplace,Returning,11,1552.48,279.45,0
+ORD-1548,CUST-7857,2024-02-13,Trend Hub,Los Angeles,West,Home Goods,In-Store,VIP,9,1670.62,300.71,0
+ORD-1549,CUST-4921,2024-10-15,Daily Basket,Dallas,South,Beauty,Marketplace,New,2,143.08,28.62,0
+ORD-1550,CUST-6136,2024-05-08,Prime Market,Miami,South,Beauty,Wholesale,Returning,2,205.29,41.06,0
+ORD-1551,CUST-5221,2024-08-14,Trend Hub,Toronto,North,Groceries,Marketplace,New,11,838.3,209.57,0
+ORD-1552,CUST-9867,2025-03-08,Prime Market,Miami,South,Home Goods,In-Store,New,3,291.46,52.46,0
+ORD-1553,CUST-3122,2025-01-27,Urban Mart,Boston,East,Home Goods,Online,Returning,11,1653.1,297.56,0
+ORD-1554,CUST-9777,2025-05-20,Prime Market,Boston,East,Apparel,In-Store,VIP,4,534.6,85.54,0
+ORD-1555,CUST-8423,2024-06-21,QuickStop,Boston,East,Beauty,Online,New,16,1396.56,279.31,0
+ORD-1556,CUST-6555,2024-12-20,Value Cart,Chicago,North,Beauty,Marketplace,Returning,8,825.81,165.16,0
+ORD-1557,CUST-2480,2025-04-06,Trend Hub,Chicago,North,Home Goods,Wholesale,VIP,8,1850.43,333.08,0
+ORD-1558,CUST-2637,2025-04-27,Urban Mart,Miami,South,Apparel,Marketplace,Returning,12,1209.32,193.49,0
+ORD-1559,CUST-1868,2024-02-05,Urban Mart,Miami,South,Apparel,Marketplace,New,14,1201.86,192.3,0
+ORD-1560,CUST-6478,2025-04-20,Value Cart,Chicago,North,Home Goods,Online,Returning,2,322.42,58.04,0
+ORD-1561,CUST-5855,2024-05-10,Urban Mart,Toronto,North,Home Goods,Wholesale,New,14,2206.81,397.23,0
+ORD-1562,CUST-9270,2024-06-22,Prime Market,Seattle,West,Apparel,Wholesale,Returning,14,2245.32,359.25,0
+ORD-1563,CUST-3384,2024-04-02,QuickStop,Seattle,West,Home Goods,Marketplace,New,8,1092.96,196.73,1
+ORD-1564,CUST-9577,2024-02-15,Value Cart,Miami,South,Home Goods,Online,New,16,1787.6,321.77,0
+ORD-1565,CUST-7393,2024-01-30,Daily Basket,Los Angeles,West,Home Goods,Wholesale,New,12,2003.76,360.68,0
+ORD-1566,CUST-3296,2024-12-19,Urban Mart,Miami,South,Groceries,In-Store,New,12,688.9,172.22,0
+ORD-1567,CUST-8299,2024-11-21,Prime Market,New York,East,Apparel,Wholesale,New,3,360.68,57.71,0
+ORD-1568,CUST-3980,2024-05-28,Value Cart,Seattle,West,Electronics,Marketplace,New,14,2347.38,516.42,0
+ORD-1569,CUST-7596,2024-02-04,Trend Hub,Chicago,North,Home Goods,Wholesale,New,3,472.89,85.12,0
+ORD-1570,CUST-1386,2025-05-31,Trend Hub,Toronto,North,Groceries,Wholesale,New,12,1117.73,279.43,0
+ORD-1571,CUST-1144,2024-10-03,QuickStop,Los Angeles,West,Apparel,Online,New,14,1666.35,266.62,0
+ORD-1572,CUST-8442,2024-06-14,Prime Market,New York,East,Groceries,Online,New,5,378.23,94.56,0
+ORD-1573,CUST-2485,2024-01-19,Daily Basket,New York,East,Electronics,Marketplace,New,4,590.2,129.84,1
+ORD-1574,CUST-3985,2024-11-23,Daily Basket,Miami,South,Electronics,In-Store,New,9,1073.09,236.08,1
+ORD-1575,CUST-9492,2025-04-11,QuickStop,Chicago,North,Apparel,In-Store,VIP,17,2437.29,389.97,0
+ORD-1576,CUST-1865,2024-03-18,Urban Mart,Chicago,North,Beauty,Online,VIP,4,549.59,109.92,0
+ORD-1577,CUST-6032,2024-10-22,Value Cart,Chicago,North,Home Goods,Marketplace,Returning,12,1816.78,327.02,0
+ORD-1578,CUST-4281,2025-06-22,Prime Market,Dallas,South,Electronics,Online,VIP,13,2615.65,575.44,1
+ORD-1579,CUST-1236,2024-01-21,QuickStop,Boston,East,Beauty,In-Store,VIP,9,1002.38,200.48,0
+ORD-1580,CUST-2289,2024-02-01,QuickStop,Seattle,West,Beauty,Online,VIP,3,436.64,87.33,0
+ORD-1581,CUST-7838,2024-06-08,Urban Mart,Chicago,North,Home Goods,Wholesale,Returning,12,2220.51,399.69,0
+ORD-1582,CUST-9385,2024-07-31,Value Cart,Dallas,South,Electronics,Wholesale,New,10,1573.86,346.25,0
+ORD-1583,CUST-1770,2024-06-18,QuickStop,Los Angeles,West,Beauty,Wholesale,Returning,16,2138.4,427.68,0
+ORD-1584,CUST-4164,2024-01-02,Trend Hub,Toronto,North,Electronics,Marketplace,New,11,1741.09,383.04,0
+ORD-1585,CUST-6497,2025-06-14,Value Cart,Los Angeles,West,Beauty,Online,VIP,13,1892.11,378.42,0
+ORD-1586,CUST-8306,2024-01-08,Urban Mart,Seattle,West,Home Goods,Marketplace,New,10,1366.2,245.92,0
+ORD-1587,CUST-3656,2024-06-06,Urban Mart,New York,East,Beauty,Marketplace,VIP,12,1443.42,288.68,0
+ORD-1588,CUST-5664,2024-12-20,Trend Hub,Miami,South,Apparel,Online,New,3,274.23,43.88,0
+ORD-1589,CUST-7455,2024-10-08,Urban Mart,Toronto,North,Apparel,Marketplace,New,5,527.6,84.42,0
+ORD-1590,CUST-3699,2024-06-25,QuickStop,Boston,East,Apparel,Wholesale,VIP,14,2469.85,395.18,0
+ORD-1591,CUST-2095,2025-04-27,Prime Market,New York,East,Home Goods,Marketplace,Returning,15,2117.02,381.06,0
+ORD-1592,CUST-1335,2025-06-15,Prime Market,Boston,East,Home Goods,Marketplace,Returning,12,1693.61,304.85,0
+ORD-1593,CUST-2426,2024-02-18,Trend Hub,Chicago,North,Home Goods,Wholesale,New,1,157.63,28.37,1
+ORD-1594,CUST-3052,2025-01-15,Urban Mart,Miami,South,Apparel,Marketplace,Returning,2,201.55,32.25,0
+ORD-1595,CUST-2559,2025-06-19,QuickStop,Seattle,West,Home Goods,Online,VIP,17,3628.97,653.21,0
+ORD-1596,CUST-5350,2024-12-16,Value Cart,Boston,East,Beauty,Wholesale,VIP,4,588.06,117.61,0
+ORD-1597,CUST-1922,2024-03-18,Urban Mart,Dallas,South,Beauty,Wholesale,Returning,1,102.64,20.53,0
+ORD-1598,CUST-4789,2024-02-21,QuickStop,Toronto,North,Beauty,Online,Returning,3,329.75,65.95,0
+ORD-1599,CUST-3141,2024-03-13,Prime Market,Miami,South,Beauty,Wholesale,VIP,10,1283.04,256.61,0
+ORD-1600,CUST-5312,2024-09-23,Prime Market,Chicago,North,Beauty,Marketplace,Returning,15,1548.4,309.68,1
+ORD-1601,CUST-4020,2024-03-15,Trend Hub,Seattle,West,Apparel,In-Store,VIP,17,2581.88,413.1,0
+ORD-1602,CUST-1644,2024-01-26,Trend Hub,Seattle,West,Electronics,In-Store,Returning,6,1093.5,240.57,0
+ORD-1603,CUST-2731,2025-03-16,Value Cart,Los Angeles,West,Beauty,Wholesale,Returning,5,668.25,133.65,1
+ORD-1604,CUST-1112,2025-02-07,Urban Mart,Seattle,West,Electronics,Marketplace,New,6,1006.02,221.32,0
+ORD-1605,CUST-1832,2025-03-12,Daily Basket,New York,East,Apparel,Wholesale,New,15,1803.38,288.54,0
+ORD-1606,CUST-3474,2025-04-09,Value Cart,Los Angeles,West,Home Goods,Online,VIP,9,1921.22,345.82,1
+ORD-1607,CUST-8260,2024-02-13,Prime Market,Toronto,North,Electronics,In-Store,Returning,9,1548.4,340.65,0
+ORD-1608,CUST-2418,2024-06-08,Trend Hub,Los Angeles,West,Home Goods,Wholesale,VIP,7,1715.18,308.73,0
+ORD-1609,CUST-3964,2025-01-17,Daily Basket,New York,East,Groceries,Marketplace,New,11,781.47,195.37,0
+ORD-1610,CUST-3960,2024-08-02,Value Cart,Seattle,West,Electronics,Marketplace,New,1,167.67,36.89,0
+ORD-1611,CUST-8756,2024-06-12,Value Cart,Dallas,South,Groceries,In-Store,Returning,12,808.7,202.18,0
+ORD-1612,CUST-3831,2024-06-22,Trend Hub,Toronto,North,Apparel,Marketplace,Returning,3,371.62,59.46,0
+ORD-1613,CUST-5750,2024-11-16,Value Cart,New York,East,Home Goods,Online,Returning,8,1202.26,216.41,0
+ORD-1614,CUST-4818,2024-01-20,Urban Mart,Los Angeles,West,Electronics,In-Store,Returning,13,2369.25,521.24,1
+ORD-1615,CUST-5342,2024-12-26,Prime Market,Los Angeles,West,Home Goods,Marketplace,New,5,683.1,122.96,0
+ORD-1616,CUST-5940,2025-05-19,Value Cart,Boston,East,Home Goods,Wholesale,VIP,17,3665.57,659.8,0
+ORD-1617,CUST-6844,2024-10-12,Trend Hub,Miami,South,Groceries,Online,Returning,12,930.01,232.5,0
+ORD-1618,CUST-1991,2024-01-16,QuickStop,Chicago,North,Groceries,Marketplace,New,13,990.72,247.68,0
+ORD-1619,CUST-1448,2024-09-18,Urban Mart,Boston,East,Apparel,Marketplace,Returning,9,1039.26,166.28,0
+ORD-1620,CUST-5553,2025-04-25,Prime Market,Los Angeles,West,Apparel,In-Store,New,15,1552.5,248.4,0
+ORD-1621,CUST-6555,2025-03-07,Urban Mart,Boston,East,Apparel,Wholesale,Returning,1,141.13,22.58,0
+ORD-1622,CUST-8651,2024-05-06,Urban Mart,Dallas,South,Beauty,Wholesale,New,2,174.87,34.97,0
+ORD-1623,CUST-7097,2024-09-30,Value Cart,Miami,South,Electronics,In-Store,Returning,3,419.9,92.38,0
+ORD-1624,CUST-6062,2024-02-17,Daily Basket,Los Angeles,West,Groceries,In-Store,VIP,13,1425.94,356.49,0
+ORD-1625,CUST-4989,2025-05-08,Trend Hub,Seattle,West,Beauty,Online,New,10,991.87,198.37,0
+ORD-1626,CUST-2690,2024-06-25,Value Cart,Miami,South,Apparel,In-Store,New,13,1033.34,165.33,1
+ORD-1627,CUST-3367,2025-04-27,QuickStop,Miami,South,Electronics,In-Store,New,12,1430.78,314.77,0
+ORD-1628,CUST-1008,2024-06-28,Urban Mart,Los Angeles,West,Beauty,Marketplace,Returning,11,1202.85,240.57,1
+ORD-1629,CUST-1709,2024-03-27,Daily Basket,Los Angeles,West,Home Goods,Marketplace,New,16,2185.92,393.47,1
+ORD-1630,CUST-3593,2025-03-09,Prime Market,Miami,South,Beauty,In-Store,New,7,463.68,92.74,0
+ORD-1631,CUST-8341,2024-02-20,Value Cart,Seattle,West,Home Goods,In-Store,Returning,6,891.0,160.38,0
+ORD-1632,CUST-5973,2024-08-28,Daily Basket,New York,East,Apparel,In-Store,Returning,7,748.44,119.75,0
+ORD-1633,CUST-4060,2025-03-17,QuickStop,Seattle,West,Electronics,Marketplace,New,10,1676.7,368.87,0
+ORD-1634,CUST-7746,2025-01-20,QuickStop,Chicago,North,Apparel,Wholesale,VIP,4,756.99,121.12,0
+ORD-1635,CUST-9610,2024-06-16,Trend Hub,Boston,East,Beauty,In-Store,New,11,834.9,166.98,1
+ORD-1636,CUST-7452,2025-04-13,Prime Market,Boston,East,Electronics,Wholesale,VIP,4,1058.51,232.87,0
+ORD-1637,CUST-6499,2024-07-04,QuickStop,Miami,South,Groceries,In-Store,VIP,10,842.4,210.6,1
+ORD-1638,CUST-8288,2024-12-18,Urban Mart,Los Angeles,West,Apparel,Wholesale,Returning,8,1283.04,205.29,0
+ORD-1639,CUST-5011,2024-09-10,QuickStop,Dallas,South,Beauty,Wholesale,New,17,1486.43,297.29,0
+ORD-1640,CUST-5889,2025-05-17,QuickStop,Los Angeles,West,Beauty,Marketplace,New,2,186.3,37.26,0
+ORD-1641,CUST-9921,2024-10-15,QuickStop,Boston,East,Groceries,Online,Returning,7,621.62,155.41,0
+ORD-1642,CUST-5358,2024-08-24,QuickStop,New York,East,Electronics,In-Store,VIP,17,3408.08,749.78,1
+ORD-1643,CUST-6468,2025-06-19,Prime Market,Toronto,North,Electronics,Online,Returning,12,2374.21,522.33,0
+ORD-1644,CUST-8998,2024-05-04,Daily Basket,Boston,East,Electronics,Online,New,6,942.68,207.39,0
+ORD-1645,CUST-9772,2024-10-22,Trend Hub,Seattle,West,Electronics,In-Store,Returning,9,1640.25,360.86,0
+ORD-1646,CUST-5978,2025-06-29,Trend Hub,Toronto,North,Groceries,In-Store,VIP,11,1138.99,284.75,0
+ORD-1647,CUST-5602,2024-03-21,Trend Hub,New York,East,Electronics,Marketplace,VIP,9,1948.62,428.7,0
+ORD-1648,CUST-9139,2024-12-06,Value Cart,Dallas,South,Beauty,Wholesale,Returning,2,205.29,41.06,0
+ORD-1649,CUST-3019,2024-06-09,Daily Basket,Seattle,West,Beauty,Marketplace,New,9,838.35,167.67,0
+ORD-1650,CUST-5011,2024-06-16,QuickStop,Chicago,North,Electronics,Online,New,16,2696.63,593.26,0
+ORD-1651,CUST-1408,2024-11-23,Daily Basket,Miami,South,Apparel,In-Store,VIP,13,1516.32,242.61,1
+ORD-1652,CUST-9235,2025-02-22,Value Cart,Boston,East,Apparel,Wholesale,VIP,7,1234.93,197.59,0
+ORD-1653,CUST-1545,2025-06-26,Prime Market,Miami,South,Beauty,Marketplace,Returning,5,419.9,83.98,0
+ORD-1654,CUST-9978,2024-06-28,Prime Market,Chicago,North,Electronics,In-Store,New,9,1319.0,290.18,0
+ORD-1655,CUST-1037,2025-02-10,QuickStop,Seattle,West,Home Goods,In-Store,VIP,5,928.13,167.06,0
+ORD-1656,CUST-2288,2024-10-01,Prime Market,Seattle,West,Groceries,Marketplace,New,9,726.57,181.64,0
+ORD-1657,CUST-1138,2024-12-01,Trend Hub,Toronto,North,Home Goods,Wholesale,Returning,6,1110.26,199.85,0
+ORD-1658,CUST-2437,2025-05-01,Value Cart,Los Angeles,West,Beauty,In-Store,Returning,6,607.5,121.5,0
+ORD-1659,CUST-4624,2024-06-04,Value Cart,Los Angeles,West,Home Goods,In-Store,VIP,8,1485.0,267.3,0
+ORD-1660,CUST-6783,2024-12-31,Daily Basket,Dallas,South,Groceries,Online,VIP,16,1550.02,387.5,0
+ORD-1661,CUST-3741,2024-04-20,QuickStop,Chicago,North,Apparel,Wholesale,VIP,8,1513.99,242.24,0
+ORD-1662,CUST-5808,2024-02-03,Urban Mart,Boston,East,Home Goods,In-Store,VIP,9,1470.15,264.63,0
+ORD-1663,CUST-3505,2025-01-25,Daily Basket,Toronto,North,Beauty,Online,Returning,1,109.92,21.98,0
+ORD-1664,CUST-3675,2024-07-10,Trend Hub,Toronto,North,Home Goods,In-Store,VIP,13,2277.99,410.04,0
+ORD-1665,CUST-8999,2025-05-13,Trend Hub,Dallas,South,Beauty,In-Store,VIP,2,194.4,38.88,0
+ORD-1666,CUST-9174,2024-08-16,Value Cart,Boston,East,Electronics,Online,New,16,2513.81,553.04,0
+ORD-1667,CUST-9726,2024-05-14,Trend Hub,New York,East,Home Goods,In-Store,Returning,4,522.72,94.09,0
+ORD-1668,CUST-3665,2024-07-26,QuickStop,Chicago,North,Home Goods,Marketplace,Returning,13,1968.18,354.27,0
+ORD-1669,CUST-8894,2025-05-20,QuickStop,Los Angeles,West,Home Goods,In-Store,VIP,10,1856.25,334.12,0
+ORD-1670,CUST-5382,2024-01-30,Urban Mart,Chicago,North,Electronics,Marketplace,Returning,13,2415.5,531.41,0
+ORD-1671,CUST-7171,2025-02-20,Prime Market,Chicago,North,Home Goods,Marketplace,Returning,11,1665.39,299.77,0
+ORD-1672,CUST-7766,2024-01-22,Value Cart,Chicago,North,Electronics,Marketplace,Returning,5,929.04,204.39,0
+ORD-1673,CUST-1788,2024-06-04,Urban Mart,Dallas,South,Apparel,Online,New,8,731.29,117.01,0
+ORD-1674,CUST-2377,2024-05-13,QuickStop,Dallas,South,Beauty,Wholesale,New,2,174.87,34.97,0
+ORD-1675,CUST-9618,2024-05-11,Prime Market,Boston,East,Groceries,Wholesale,VIP,15,1911.2,477.8,0
+ORD-1676,CUST-7571,2025-06-26,QuickStop,Boston,East,Groceries,Marketplace,VIP,7,729.73,182.43,0
+ORD-1677,CUST-2337,2025-03-19,Prime Market,Los Angeles,West,Electronics,Wholesale,Returning,9,2165.13,476.33,0
+ORD-1678,CUST-3240,2024-08-23,Daily Basket,Boston,East,Beauty,Marketplace,VIP,11,1323.14,264.63,0
+ORD-1679,CUST-9133,2024-02-25,QuickStop,Los Angeles,West,Home Goods,Marketplace,Returning,10,1603.8,288.68,0
+ORD-1680,CUST-8161,2024-04-01,Trend Hub,Boston,East,Home Goods,In-Store,VIP,17,2776.95,499.85,0
+ORD-1681,CUST-2005,2024-12-19,Trend Hub,Toronto,North,Electronics,Marketplace,VIP,9,2090.33,459.87,0
+ORD-1682,CUST-2802,2025-01-27,QuickStop,Toronto,North,Groceries,Marketplace,New,10,762.09,190.52,1
+ORD-1683,CUST-5329,2025-02-11,Prime Market,Boston,East,Electronics,Marketplace,Returning,8,1385.68,304.85,0
+ORD-1684,CUST-9892,2024-05-23,Urban Mart,Miami,South,Groceries,Online,New,3,198.06,49.52,0
+ORD-1685,CUST-3002,2024-08-08,Trend Hub,Toronto,North,Groceries,Online,Returning,14,1333.66,333.42,0
+ORD-1686,CUST-9650,2024-07-03,Trend Hub,Chicago,North,Beauty,Wholesale,VIP,7,1103.95,220.79,0
+ORD-1687,CUST-8280,2024-12-27,Daily Basket,Seattle,West,Home Goods,In-Store,Returning,12,1782.0,320.76,1
+ORD-1688,CUST-9395,2025-02-18,Value Cart,Chicago,North,Electronics,In-Store,VIP,5,1075.28,236.56,0
+ORD-1689,CUST-6584,2024-07-13,QuickStop,Boston,East,Electronics,Marketplace,Returning,3,519.63,114.32,0
+ORD-1690,CUST-2381,2025-01-16,Daily Basket,Toronto,North,Home Goods,Online,New,15,2059.93,370.79,0
+ORD-1691,CUST-2182,2024-03-06,Value Cart,Boston,East,Apparel,Marketplace,Returning,8,923.79,147.81,0
+ORD-1692,CUST-1181,2024-01-09,Urban Mart,Miami,South,Home Goods,Wholesale,New,5,641.2,115.42,0
+ORD-1693,CUST-8564,2024-09-04,Value Cart,Boston,East,Beauty,Marketplace,New,14,1147.61,229.52,0
+ORD-1694,CUST-4511,2024-03-16,Trend Hub,Los Angeles,West,Electronics,Wholesale,Returning,6,1443.42,317.55,0
+ORD-1695,CUST-1962,2024-02-13,Daily Basket,Miami,South,Groceries,Marketplace,Returning,14,1018.97,254.74,0
+ORD-1696,CUST-3436,2024-10-21,Value Cart,New York,East,Beauty,In-Store,Returning,5,445.5,89.1,0
+ORD-1697,CUST-6092,2025-03-15,Value Cart,Los Angeles,West,Beauty,In-Store,Returning,11,1113.75,222.75,0
+ORD-1698,CUST-1359,2024-09-14,Urban Mart,Miami,South,Apparel,Wholesale,VIP,17,2617.4,418.78,0
+ORD-1699,CUST-1379,2024-08-26,Daily Basket,Miami,South,Groceries,Wholesale,Returning,12,1067.49,266.87,0
+ORD-1700,CUST-3126,2025-06-08,Prime Market,Los Angeles,West,Beauty,Wholesale,VIP,9,1503.56,300.71,0
+ORD-1701,CUST-3367,2024-10-16,Trend Hub,Dallas,South,Groceries,In-Store,VIP,7,589.68,147.42,0
+ORD-1702,CUST-1732,2024-04-30,Urban Mart,Dallas,South,Apparel,Wholesale,VIP,8,1231.72,197.08,0
+ORD-1703,CUST-3502,2025-03-19,Daily Basket,Chicago,North,Electronics,In-Store,New,17,2491.45,548.12,0
+ORD-1704,CUST-4335,2024-11-04,Urban Mart,Toronto,North,Beauty,Wholesale,Returning,3,378.5,75.7,0
+ORD-1705,CUST-2399,2024-03-30,Urban Mart,Chicago,North,Apparel,Marketplace,Returning,8,990.97,158.56,1
+ORD-1706,CUST-9230,2025-06-05,Daily Basket,Toronto,North,Apparel,In-Store,VIP,9,1290.33,206.45,0
+ORD-1707,CUST-8473,2025-04-25,QuickStop,Miami,South,Home Goods,Online,Returning,17,2229.64,401.34,0
+ORD-1708,CUST-5642,2025-05-23,Value Cart,Miami,South,Electronics,Marketplace,Returning,9,1360.49,299.31,0
+ORD-1709,CUST-5910,2025-04-04,Value Cart,Los Angeles,West,Beauty,In-Store,New,7,603.75,120.75,0
+ORD-1710,CUST-5772,2024-04-15,Daily Basket,Miami,South,Groceries,Marketplace,VIP,4,363.92,90.98,0
+ORD-1711,CUST-2418,2024-10-03,Daily Basket,New York,East,Apparel,Marketplace,Returning,10,1154.74,184.76,0
+ORD-1712,CUST-4562,2024-10-06,Daily Basket,Toronto,North,Groceries,In-Store,Returning,10,828.36,207.09,0
+ORD-1713,CUST-8782,2024-08-09,Value Cart,Boston,East,Home Goods,Wholesale,VIP,8,1724.98,310.5,0
+ORD-1714,CUST-6039,2025-04-19,Trend Hub,Toronto,North,Groceries,Online,New,6,486.89,121.72,0
+ORD-1715,CUST-3118,2025-02-12,Urban Mart,Seattle,West,Electronics,Marketplace,Returning,10,1968.3,433.03,0
+ORD-1716,CUST-4083,2024-10-06,Value Cart,New York,East,Apparel,Online,New,8,837.94,134.07,0
+ORD-1717,CUST-3916,2024-08-09,Urban Mart,Dallas,South,Home Goods,Online,VIP,4,655.78,118.04,0
+ORD-1718,CUST-1820,2024-11-28,Trend Hub,Seattle,West,Groceries,In-Store,New,13,971.75,242.94,0
+ORD-1719,CUST-2006,2025-04-13,Prime Market,Miami,South,Home Goods,Marketplace,Returning,17,2093.92,376.91,0
+ORD-1720,CUST-1953,2024-02-07,Trend Hub,Chicago,North,Groceries,Online,VIP,12,1428.92,357.23,0
+ORD-1721,CUST-4022,2024-07-04,Urban Mart,Dallas,South,Electronics,Wholesale,VIP,5,1154.74,254.04,0
+ORD-1722,CUST-2289,2024-02-19,Value Cart,Miami,South,Electronics,Online,Returning,2,321.93,70.82,0
+ORD-1723,CUST-9184,2024-11-09,Value Cart,Chicago,North,Beauty,Online,Returning,2,219.83,43.97,0
+ORD-1724,CUST-1785,2024-01-30,Daily Basket,New York,East,Apparel,Marketplace,Returning,7,808.32,129.33,0
+ORD-1725,CUST-2207,2024-01-29,Trend Hub,New York,East,Electronics,In-Store,New,2,273.24,60.11,0
+ORD-1726,CUST-4807,2024-09-12,Prime Market,Chicago,North,Groceries,Marketplace,VIP,10,1118.29,279.57,1
+ORD-1727,CUST-7463,2025-04-04,Trend Hub,Miami,South,Home Goods,Online,VIP,2,327.89,59.02,0
+ORD-1728,CUST-8665,2024-07-04,Value Cart,Toronto,North,Beauty,In-Store,Returning,17,1624.86,324.97,0
+ORD-1729,CUST-3178,2024-06-13,Trend Hub,Boston,East,Electronics,In-Store,VIP,3,601.43,132.31,0
+ORD-1730,CUST-1386,2024-11-30,QuickStop,Miami,South,Electronics,Online,VIP,10,2012.04,442.65,0
+ORD-1731,CUST-9053,2024-05-18,Trend Hub,Boston,East,Groceries,In-Store,VIP,2,193.05,48.26,0
+ORD-1732,CUST-8167,2024-05-01,Prime Market,Seattle,West,Home Goods,In-Store,VIP,13,2413.12,434.36,0
+ORD-1733,CUST-2620,2024-08-26,Value Cart,Boston,East,Beauty,In-Store,Returning,16,1425.6,285.12,0
+ORD-1734,CUST-4534,2024-07-13,Trend Hub,Los Angeles,West,Apparel,Marketplace,New,2,223.56,35.77,0
+ORD-1735,CUST-7257,2025-03-25,Prime Market,Los Angeles,West,Electronics,Marketplace,VIP,8,1968.3,433.03,0
+ORD-1736,CUST-3173,2024-03-14,Daily Basket,Boston,East,Apparel,Wholesale,New,12,1442.71,230.83,0
+ORD-1737,CUST-5417,2024-07-02,Daily Basket,Miami,South,Apparel,Marketplace,New,12,1030.16,164.83,0
+ORD-1738,CUST-9579,2024-09-02,Trend Hub,Boston,East,Groceries,Online,New,6,453.88,113.47,0
+ORD-1739,CUST-2876,2024-08-20,QuickStop,Seattle,West,Beauty,Wholesale,VIP,3,501.19,100.24,0
+ORD-1740,CUST-9189,2024-03-05,Value Cart,Chicago,North,Home Goods,Wholesale,VIP,14,3238.25,582.88,0
+ORD-1741,CUST-8327,2025-02-24,Value Cart,Miami,South,Beauty,In-Store,VIP,3,291.6,58.32,1
+ORD-1742,CUST-5055,2024-08-10,Prime Market,Dallas,South,Apparel,Online,New,16,1462.58,234.01,0
+ORD-1743,CUST-3676,2024-07-02,Daily Basket,Miami,South,Electronics,In-Store,Returning,10,1399.68,307.93,0
+ORD-1744,CUST-1908,2024-10-21,Urban Mart,Chicago,North,Electronics,Wholesale,New,9,1741.09,383.04,0
+ORD-1745,CUST-2335,2024-11-10,Trend Hub,Seattle,West,Electronics,Online,New,6,1071.22,235.67,0
+ORD-1746,CUST-6928,2024-12-06,Value Cart,Dallas,South,Groceries,In-Store,New,11,631.49,157.87,0
+ORD-1747,CUST-6306,2024-09-14,QuickStop,Miami,South,Beauty,Online,VIP,13,1453.14,290.63,0
+ORD-1748,CUST-7936,2025-05-15,Trend Hub,Dallas,South,Home Goods,Wholesale,VIP,16,3010.87,541.96,0
+ORD-1749,CUST-5692,2024-07-04,Trend Hub,Seattle,West,Groceries,Wholesale,Returning,15,1737.45,434.36,0
+ORD-1750,CUST-4466,2024-09-21,Value Cart,Boston,East,Beauty,Wholesale,VIP,7,1029.11,205.82,0
+ORD-1751,CUST-6740,2024-11-30,Value Cart,Toronto,North,Groceries,In-Store,Returning,14,1159.7,289.93,0
+ORD-1752,CUST-5583,2025-02-03,Urban Mart,Los Angeles,West,Apparel,Online,Returning,3,419.18,67.07,1
+ORD-1753,CUST-1003,2024-03-09,QuickStop,New York,East,Beauty,Wholesale,New,14,1402.63,280.53,0
+ORD-1754,CUST-3296,2024-10-16,Urban Mart,Seattle,West,Home Goods,Wholesale,Returning,8,1568.16,282.27,1
+ORD-1755,CUST-3969,2024-02-24,Prime Market,Boston,East,Electronics,In-Store,VIP,5,1002.38,220.52,0
+ORD-1756,CUST-9168,2024-08-27,Daily Basket,Miami,South,Apparel,Online,New,7,639.88,102.38,1
+ORD-1757,CUST-3848,2025-01-06,Trend Hub,Miami,South,Beauty,Wholesale,Returning,5,513.22,102.64,0
+ORD-1758,CUST-4636,2024-08-04,Urban Mart,Chicago,North,Home Goods,Wholesale,New,17,2679.7,482.35,0
+ORD-1759,CUST-7427,2024-12-15,QuickStop,Dallas,South,Home Goods,Wholesale,New,17,2180.09,392.42,0
+ORD-1760,CUST-6885,2025-03-07,Prime Market,Chicago,North,Beauty,Wholesale,VIP,16,2523.31,504.66,0
+ORD-1761,CUST-9722,2024-04-10,Urban Mart,Boston,East,Groceries,Wholesale,Returning,9,917.37,229.34,0
+ORD-1762,CUST-5438,2025-03-17,QuickStop,New York,East,Electronics,Online,New,17,2670.92,587.6,1
+ORD-1763,CUST-9370,2024-08-13,Value Cart,Boston,East,Beauty,Marketplace,VIP,5,601.43,120.29,0
+ORD-1764,CUST-2845,2024-03-05,Daily Basket,Chicago,North,Electronics,Marketplace,New,12,1899.37,417.86,0
+ORD-1765,CUST-7124,2025-04-08,Value Cart,Toronto,North,Electronics,Wholesale,VIP,13,3690.34,811.87,0
+ORD-1766,CUST-4209,2024-02-03,Daily Basket,New York,East,Home Goods,Marketplace,VIP,5,882.09,158.78,0
+ORD-1767,CUST-2723,2024-05-22,Value Cart,Chicago,North,Electronics,Online,New,12,2022.47,444.94,1
+ORD-1768,CUST-4009,2025-06-17,Prime Market,Dallas,South,Electronics,In-Store,New,13,1550.02,341.0,0
+ORD-1769,CUST-4688,2025-03-26,QuickStop,Chicago,North,Beauty,Wholesale,VIP,3,473.12,94.62,0
+ORD-1770,CUST-7956,2024-05-19,Daily Basket,Boston,East,Electronics,In-Store,VIP,7,1403.33,308.73,1
+ORD-1771,CUST-6717,2024-11-01,Prime Market,Toronto,North,Groceries,Marketplace,Returning,10,894.63,223.66,0
+ORD-1772,CUST-7461,2025-03-04,Urban Mart,Los Angeles,West,Apparel,In-Store,Returning,9,1093.5,174.96,0
+ORD-1773,CUST-3524,2024-09-07,Urban Mart,Seattle,West,Groceries,Online,Returning,14,1412.78,353.19,0
+ORD-1774,CUST-1635,2024-03-22,Prime Market,Toronto,North,Apparel,Online,VIP,12,1978.51,316.56,1
+ORD-1775,CUST-4912,2024-11-02,QuickStop,Dallas,South,Groceries,In-Store,Returning,17,1145.66,286.42,0
+ORD-1776,CUST-4805,2024-06-03,QuickStop,Boston,East,Beauty,Wholesale,Returning,6,705.67,141.13,0
+ORD-1777,CUST-7313,2024-10-30,Daily Basket,Seattle,West,Apparel,Marketplace,Returning,9,1180.98,188.96,0
+ORD-1778,CUST-8709,2025-04-16,QuickStop,Toronto,North,Electronics,Wholesale,Returning,16,3633.57,799.39,0
+ORD-1779,CUST-1366,2024-11-17,Urban Mart,Boston,East,Groceries,In-Store,New,11,723.58,180.9,0
+ORD-1780,CUST-9947,2025-05-05,QuickStop,Seattle,West,Groceries,Marketplace,New,10,807.3,201.82,0
+ORD-1781,CUST-4696,2024-04-17,Urban Mart,Toronto,North,Electronics,Online,VIP,11,2720.45,598.5,0
+ORD-1782,CUST-7191,2024-08-08,Trend Hub,Toronto,North,Apparel,Marketplace,Returning,6,743.23,118.92,0
+ORD-1783,CUST-4519,2024-05-16,QuickStop,New York,East,Home Goods,In-Store,VIP,1,163.35,29.4,0
+ORD-1784,CUST-5682,2024-10-29,Daily Basket,Toronto,North,Groceries,Online,Returning,1,95.26,23.82,0
+ORD-1785,CUST-8321,2024-05-07,Daily Basket,Dallas,South,Home Goods,Online,Returning,11,1442.71,259.69,0
+ORD-1786,CUST-5956,2025-03-06,Daily Basket,Chicago,North,Home Goods,Wholesale,VIP,16,3700.86,666.15,0
+ORD-1787,CUST-4394,2025-01-06,Trend Hub,Chicago,North,Groceries,Wholesale,New,1,93.14,23.29,0
+ORD-1788,CUST-1608,2025-04-04,QuickStop,Chicago,North,Electronics,Wholesale,VIP,6,1703.24,374.71,0
+ORD-1789,CUST-6244,2024-01-15,Urban Mart,Los Angeles,West,Home Goods,Online,VIP,1,213.47,38.42,0
+ORD-1790,CUST-3108,2025-03-19,Urban Mart,Seattle,West,Electronics,Wholesale,Returning,2,481.14,105.85,0
+ORD-1791,CUST-6013,2024-07-06,Daily Basket,Los Angeles,West,Apparel,Marketplace,VIP,9,1476.23,236.2,0
+ORD-1792,CUST-9031,2024-04-10,Daily Basket,Seattle,West,Beauty,Wholesale,New,9,1024.65,204.93,0
+ORD-1793,CUST-7801,2025-04-14,Trend Hub,Los Angeles,West,Beauty,In-Store,Returning,13,1316.25,263.25,0
+ORD-1794,CUST-2063,2024-10-23,QuickStop,Los Angeles,West,Groceries,Marketplace,VIP,11,1303.09,325.77,0
+ORD-1795,CUST-4654,2025-03-02,Urban Mart,New York,East,Beauty,In-Store,New,5,379.5,75.9,0
+ORD-1796,CUST-7511,2024-10-07,QuickStop,Toronto,North,Apparel,Online,New,8,898.88,143.82,0
+ORD-1797,CUST-2952,2025-01-31,Urban Mart,Seattle,West,Groceries,Wholesale,VIP,6,868.73,217.18,0
+ORD-1798,CUST-2388,2024-09-14,Value Cart,Chicago,North,Groceries,Wholesale,New,9,838.3,209.57,0
+ORD-1799,CUST-1440,2024-03-21,Trend Hub,Boston,East,Electronics,Marketplace,New,9,1327.95,292.15,0
+ORD-1800,CUST-2412,2024-07-15,Value Cart,New York,East,Electronics,In-Store,VIP,6,1202.85,264.63,0

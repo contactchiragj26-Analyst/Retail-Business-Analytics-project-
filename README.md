@@ -1,157 +1,111 @@
-# 📊 Retail Business Analytics Portfolio Project
+<div align="center">
 
-![Retail Analytics Banner](./banner.svg)
+# 👋 Hi, I'm Chirag Jain
 
-[![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![Dashboard](https://img.shields.io/badge/Dashboard-Interactive%20HTML-0A66C2)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Ready-FF6B6B)](#-why-this-is-portfolio-ready)
+### 📊 Business Analyst | Data Analyst | Business Analytics
 
-A polished retail analytics project designed to showcase business analysis, KPI reporting, dashboard storytelling, and SQL-style data summarization in one reproducible workflow.
+**Turning data into insights, dashboards, and better business decisions.**
 
-```mermaid
-flowchart LR
-    A[Raw Retail Data] --> B[Clean & Standardize]
-    B --> C[Business KPI Analysis]
-    C --> D[Charts & Dashboards]
-    D --> E[Actionable Insights]
-    E --> F[Portfolio Story]
-    classDef move fill:#2563eb,color:#fff,stroke:#1d4ed8,stroke-width:2px;
-    class A,B,C,D,E,F move;
+<p>
+  <a href="https://github.com/contactchiragj26-Analyst">
+    <img src="https://img.shields.io/badge/GitHub-contactchiragj26--Analyst-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://contactchiragj26-analyst.github.io/Chirag-s-Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
+</div>
+
+---
+
+## 🚀 About Me
+
+I'm a **Business Analytics professional and Data Analyst** passionate about transforming raw data into meaningful business insights.
+
+I enjoy working with data to:
+
+- 📊 Discover trends and patterns
+- 🧹 Clean and transform datasets
+- 🔍 Perform exploratory data analysis
+- 📈 Build interactive dashboards
+- 💡 Generate actionable business insights
+- 📋 Support data-driven decision making
+
+My goal is to combine **business knowledge + analytical skills + technology** to solve real-world problems.
+
+---
+
+## 🛠️ Skills & Technologies
+
+### 📊 Data Analytics
+
+<p>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
+
+### 📈 Business Intelligence
+
+<p>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+</p>
+
+### 📉 Data Visualization
+
+- Power BI Dashboards
+- Excel Dashboards
+- KPI Reporting
+- Business Reports
+- Data Storytelling
+- Interactive Visualizations
+
+---
+
+## 📂 Featured Projects
+
+| Project | Description | Tools |
+|---|---|---|
+| 📊 **Sales Analytics** | Analyze sales performance, revenue and KPIs | Power BI • Excel • SQL |
+| 👥 **Customer Analysis** | Explore customer behavior and segmentation | Python • Pandas • SQL |
+| 🏢 **HR Analytics** | Analyze employee trends and workforce KPIs | Power BI • Excel |
+| 🛒 **E-Commerce Analysis** | Explore orders, customers and revenue trends | Python • SQL |
+| 💰 **Business Performance Dashboard** | Interactive dashboard for business decision-making | Power BI |
+
+> 🚀 More projects and detailed case studies are available in my portfolio.
+
+---
+
+## 🎓 Certifications
+
+| Certification | Provider | Certificate |
+|---|---|---|
+| Data Analytics Certificate | Google | [View Certificate](data-analytics.pdf) |
+| Python Certificate | — | [View Certificate](python.pdf) |
+| Tableau Certificate | Microsoft | [View Certificate](tableau.pdf) |
+
+---
+
+## 📊 What I Work With
+
+```text
+Business Analytics
+       ↓
+Data Collection
+       ↓
+Data Cleaning
+       ↓
+Exploratory Data Analysis
+       ↓
+Data Visualization
+       ↓
+Dashboard Development
+       ↓
+Business Insights
+       ↓
+Data-Driven Decisions
 ```
-
-## 🚀 Executive summary
-
-This project analyzes a realistic retail sales dataset to answer key business questions such as:
-
-- Which regions and stores are driving the most sales?
-- Which categories and channels are most profitable?
-- How is revenue trending over time?
-- Where is operational risk visible through return behavior?
-- Which business decisions are supported by the data?
-
-The final output is a presentation-ready analytics package that can be used in an interview, portfolio, or stakeholder review.
-
-## 📈 Key business insights
-
-The current generated dataset supports the following sample findings:
-
-- Total revenue: $1,001,732.87
-- Total profit: $199,944.48
-- Average order value: $1,252.17
-- Best-performing region: North
-- Best-performing sales channel: Wholesale
-- Return rate: 9.00%
-
-These metrics illustrate how a business analyst can turn raw transaction data into operational insight and decision support.
-
-## 🧩 What this project includes
-
-- Synthetic but realistic retail sales data with stores, regions, categories, channels, and customer segments
-- KPI analysis including revenue, profit, return rate, and order value
-- Monthly, regional, category, and channel performance summaries
-- Executive-style static dashboards and interactive dashboard outputs
-- SQL-style aggregation logic for business-ready summaries
-- Notebook walkthrough for presentation and learning
-- Automated tests for the core logic
-
-## 🛠️ Tech stack
-
-- Python
-- Pandas
-- Matplotlib
-- Seaborn
-- HTML/CSS/JavaScript for dashboard presentation
-- Pytest for validation
-
-## 📁 Project structure
-
-- `data/` — generated retail sales dataset
-- `src/` — data generation, analysis, SQL workflow, and dashboard scripts
-- `notebooks/` — notebook version of the workflow
-- `tests/` — validation for KPI and summary logic
-- `output/` — generated CSV, chart, and dashboard outputs
-
-## ⚙️ Setup
-
-1. Create and activate a virtual environment:
-
-```powershell
-python -m venv .venv
-.\.venv\Scripts\Activate.ps1
-```
-
-2. Install dependencies:
-
-```powershell
-pip install -r requirements.txt
-```
-
-3. Generate the dataset:
-
-```powershell
-python src/generate_sample_data.py
-```
-
-4. Run the full analysis pipeline:
-
-```powershell
-python src/analyze_sales.py
-```
-
-5. Run the SQL helper workflow directly when needed:
-
-```powershell
-python src/sql_workflow.py
-```
-
-## 📦 Output files generated
-
-- `output/kpi_summary.csv`
-- `output/sql_summary.csv`
-- `output/monthly_sales.png`
-- `output/sales_by_region.png`
-- `output/category_profit.png`
-- `output/channel_performance.png`
-- `output/store_performance.png`
-- `output/dashboard.html`
-- `output/dashboard_interactive.html`
-
-## ❓ Business questions answered
-
-- Which region generates the highest sales volume?
-- Which category delivers the strongest profit contribution?
-- Which sales channels are performing best?
-- Which stores are top contributors to revenue?
-- How is sales trending over time?
-- What is the return rate and how does it affect margin?
-- Which customer and store segments deserve further focus?
-
-## 🧠 Portfolio narrative
-
-This project demonstrates the kind of analysis a business analyst would perform to support retail performance decisions. It moves from raw transaction data to KPI summaries, comparisons, and visual insight generation. The end result is an actionable story for stakeholders: where performance is strong, where risk exists, and where growth opportunities may be worth pursuing.
-
-## ✅ Why this is portfolio-ready
-
-- Clear business context and decision-making value
-- Reproducible analysis workflow
-- Executive-friendly visualization and dashboards
-- Insight-driven storytelling for leadership review
-- Strong demonstration of Python analytics and reporting skills
-
-## 💬 Suggested interview talking points
-
-- Explain how the dataset was generated and why it is realistic for retail analysis.
-- Walk through KPI definitions and how they help measure performance.
-- Describe which business questions the dashboard answers.
-- Show how SQL-style aggregation logic supports the same insights in a structured workflow.
-- Highlight the importance of return behavior and margin management in revenue reporting.
-
-## 🌱 Next steps
-
-Potential next enhancements include:
-
-- Adding a real-world dataset instead of synthetic data
-- Expanding the analysis to customer lifetime value and retention
-- Creating a deployed dashboard with filters and drill-downs
-- Integrating forecasting and scenario modeling

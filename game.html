@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Signal Run | 3D Arena</title>
+  <link rel="stylesheet" href="game.css">
+</head>
+<body>
+  <main id="game-shell">
+    <canvas id="arena" aria-label="Signal Run 3D arena"></canvas>
+    <section class="hud hud-top">
+      <div><span class="eyebrow">SIGNAL RUN / 01</span><h1>Drop into the zone.</h1></div>
+      <div class="stat-box"><span>ROUND</span><strong id="round">01</strong></div>
+      <div class="stat-box"><span>THREATS</span><strong id="threats">05</strong></div>
+    </section>
+    <section class="hud hud-bottom">
+      <div class="health"><span>VITALS</span><div class="health-track"><i id="health-bar"></i></div><strong id="health-value">100</strong></div>
+      <div class="controls"><span>WASD MOVE</span><span>MOUSE AIM</span><span>CLICK FIRE</span><span>SHIFT SPRINT</span></div>
+      <div class="score"><span>SCORE</span><strong id="score">0000</strong></div>
+    </section>
+    <div id="reticle" aria-hidden="true"></div>
+    <section id="start-screen" class="modal"><p class="eyebrow">ORIGINAL 3D ARENA PROTOTYPE</p><h2>Signal<br><em>Run.</em></h2><p>Survive the arena, collect signal cores, and keep moving as the safe zone closes in.</p><button id="start-button">Enter arena <span>↗</span></button><a href="index.html">Back to portfolio</a></section>
+    <section id="game-over" class="modal hidden"><p class="eyebrow">RUN COMPLETE</p><h2 id="result-title">Signal lost.</h2><p id="result-copy">The zone got you this time.</p><button id="restart-button">Run it back <span>↗</span></button></section>
+    <div id="toast" role="status"></div>
+  </main>
+  <script type="module" src="game.js"></script>
+</body>
+</html>
